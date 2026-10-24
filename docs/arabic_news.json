@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T07:57:47.492Z",
+  "updatedAt": "2026-10-24T07:59:17.704Z",
   "news": [
     {
       "id": "who_blood_donation_20261023",
@@ -521,6 +521,91 @@
       ]
     },
     {
+      "id": "unesco_girls_school_20261009",
+      "titleAr": "مُخْتَصُّونَ يُسَاعِدُونَ الْفَتَيَاتِ عَلَى مُوَاصَلَةِ الدِّرَاسَةِ",
+      "titleTr": "UNESCO, Kızların Okula Devamı İçin Çalışan Uzmanları Anlattı",
+      "summaryTr": "Benin, Çad ve Fildişi Sahili'nden altı eğitim uzmanı kızların eğitime erişimini iyileştirmeye çalışıyor.",
+      "category": "Eğitim",
+      "level": "C1",
+      "publishedAt": "2026-10-09",
+      "textAr": "عَرَضَ مَعْهَدُ الْيُونِسْكُو الدَّوْلِيُّ لِلتَّخْطِيطِ التَّرْبَوِيِّ تَجَارِبَ سِتَّةِ مُخْتَصِّينَ فِي بِنِين وَتْشَاد وَسَاحِلِ الْعَاجِ. وَيَعْمَلُ هَؤُلَاءِ عَلَى إِزَالَةِ الْعَوَائِقِ الَّتِي تَمْنَعُ بَعْضَ الْفَتَيَاتِ مِنَ الِالْتِحَاقِ بِالْمَدْرَسَةِ أَوْ مُوَاصَلَةِ التَّعْلِيمِ. وَتَشْمَلُ الْمُشْكِلَاتُ الْفَقْرَ وَالزَّوَاجَ الْمُبَكِّرَ وَقِلَّةَ الْأَمَانِ وَالنُّزُوحَ. وَيَسْتَخْدِمُ الْمُخْتَصُّونَ الْبَيَانَاتِ لِفَهْمِ أَسْبَابِ الِانْقِطَاعِ عَنِ الدِّرَاسَةِ، ثُمَّ يَتَعَاوَنُونَ مَعَ الْمَدَارِسِ وَالْمُجْتَمَعَاتِ لِإِيجَادِ حُلُولٍ. وَتُؤَكِّدُ التَّجَارِبُ أَنَّ تَحْسِينَ التَّعْلِيمِ يَتَطَلَّبُ الِاسْتِمَاعَ إِلَى أَصْحَابِ الْمُشْكِلَةِ، وَلَا يَكْفِي الِاعْتِمَادُ عَلَى الْأَرْقَامِ وَحْدَهَا.",
+      "translationTr": "UNESCO Uluslararası Eğitim Planlama Enstitüsü, Benin, Çad ve Fildişi Sahili'nden altı uzmanın çalışmalarını aktardı. Bu uzmanlar, bazı kızların okula başlamasını veya eğitimine devam etmesini engelleyen sorunları gidermeye çalışıyor. Yoksulluk, erken yaşta evlilik, güvenlik eksikliği ve yerinden edilme bu sorunlar arasında. Uzmanlar okulu bırakma nedenlerini anlamak için verileri kullanıyor, ardından okullar ve toplumlarla birlikte çözümler geliştiriyor. Örnekler, yalnızca sayılara değil, sorunu yaşayan insanlara da kulak verilmesi gerektiğini gösteriyor.",
+      "sourceName": "UNESCO IIEP – eğitim uyarlaması",
+      "sourceUrl": "https://www.iiep.unesco.org/en/articles/how-six-education-professionals-are-getting-more-girls-school",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "الْعَوَائِق",
+          "turkish": "Engeller",
+          "root": "ع و ق",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الِالْتِحَاق",
+          "turkish": "Katılma / kayıt olma",
+          "root": "ل ح ق",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الْفَقْر",
+          "turkish": "Yoksulluk",
+          "root": "ف ق ر",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "النُّزُوح",
+          "turkish": "Yerinden edilme",
+          "root": "ن ز ح",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْبَيَانَات",
+          "turkish": "Veriler",
+          "root": "ب ي ن",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الِانْقِطَاع",
+          "turkish": "Ara verme / kopma",
+          "root": "ق ط ع",
+          "wordType": "Mastar"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Uzmanlar hangi üç ülkede çalışıyor?",
+          "options": [
+            "Benin, Çad ve Fildişi Sahili",
+            "Norveç, İsveç ve Finlandiya",
+            "Japonya, Çin ve Kore"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "İlk cümlede üç Afrika ülkesi sayılır."
+        },
+        {
+          "questionTr": "Kızların eğitimini engelleyen sorunlardan biri hangisidir?",
+          "options": [
+            "İnternetin hızlı olması",
+            "Erken yaşta evlilik",
+            "Okul sayısının artması"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“الزَّوَاجَ الْمُبَكِّرَ” erken evlilik anlamına gelir."
+        },
+        {
+          "questionTr": "Metnin vurguladığı yaklaşım nedir?",
+          "options": [
+            "Sadece sayıları değerlendirmek",
+            "Sorunları görmezden gelmek",
+            "Verilerle birlikte aile ve öğrencileri dinlemek"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "Son cümle rakamlarla yetinilmemesi gerektiğini vurgular."
+        }
+      ]
+    },
+    {
       "id": "imf_cost_living_20261005",
       "titleAr": "دِرَاسَةٌ تَدْعُو إِلَى دَعْمٍ مُؤَقَّتٍ لِلْأُسَرِ الْمُتَضَرِّرَةِ",
       "titleTr": "IMF: Hayat Pahalılığına Karşı Hedefli Destek Daha Etkili",
@@ -600,6 +685,91 @@
           ],
           "correctIndex": 2,
           "explanationTr": "Son cümlede “الْمَالِيَّةِ الْعَامَّةِ” ifadesi bulunur."
+        }
+      ]
+    },
+    {
+      "id": "unesco_teacher_shortage_20261005",
+      "titleAr": "الْعَالَمُ يَحْتَاجُ إِلَى خَمْسِينَ مِلْيُونَ مُعَلِّمٍ جَدِيدٍ",
+      "titleTr": "UNESCO: Dünyanın 50 Milyon Yeni Öğretmene İhtiyacı Var",
+      "summaryTr": "UNESCO'ya göre herkesin eğitim alabilmesi için 2030 yılına kadar 50 milyon ek öğretmene ihtiyaç var.",
+      "category": "Eğitim",
+      "level": "A2",
+      "publishedAt": "2026-10-05",
+      "textAr": "نَشَرَتِ الْيُونِسْكُو بَيَانَاتٍ جَدِيدَةً بِمُنَاسَبَةِ الْيَوْمِ الْعَالَمِيِّ لِلْمُعَلِّمِ. وَتَقُولُ إِنَّ الْعَالَمَ يَضُمُّ نَحْوَ مِئَةٍ وَسَبْعَةِ مَلَايِينَ مُعَلِّمٍ، وَلَكِنَّهُ يَحْتَاجُ إِلَى خَمْسِينَ مِلْيُونَ مُعَلِّمٍ إِضَافِيٍّ بِحُلُولِ عَامِ ٢٠٣٠. وَسَيَحُلُّ كَثِيرٌ مِنَ الْمُعَلِّمِينَ الْجُدُدِ مَحَلَّ مُعَلِّمِينَ يَتْرُكُونَ الْمِهْنَةَ. وَتُؤَكِّدُ الْيُونِسْكُو أَهَمِّيَّةَ دَعْمِ الْمُعَلِّمِينَ وَتَحْسِينِ ظُرُوفِ عَمَلِهِمْ. فَوُجُودُ مَدَارِسَ جَدِيدَةٍ لَا يَكْفِي إِذَا لَمْ يَتَوَفَّرْ فِيهَا مُعَلِّمُونَ مُؤَهَّلُونَ.",
+      "translationTr": "UNESCO, Dünya Öğretmenler Günü için yeni veriler yayımladı. Dünyada yaklaşık 107 milyon öğretmen bulunuyor, fakat 2030 yılına kadar 50 milyon ek öğretmene ihtiyaç duyuluyor. Yeni öğretmenlerin önemli bir bölümü mesleği bırakanların yerini alacak. UNESCO, öğretmenlerin desteklenmesi ve çalışma koşullarının iyileştirilmesi gerektiğini vurguluyor. Nitelikli öğretmenler olmadan yeni okul açmak tek başına yeterli değil.",
+      "sourceName": "UNESCO – eğitim uyarlaması",
+      "sourceUrl": "https://www.unesco.org/en/articles/new-unesco-data-every-two-teachers-world-needs-one-more",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "الْمُعَلِّم",
+          "turkish": "Öğretmen",
+          "root": "ع ل م",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "بَيَانَات",
+          "turkish": "Veriler",
+          "root": "ب ي ن",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "إِضَافِيّ",
+          "turkish": "Ek / ilave",
+          "root": "ض ي ف",
+          "wordType": "Sıfat"
+        },
+        {
+          "arabic": "الْمِهْنَة",
+          "turkish": "Meslek",
+          "root": "م ه ن",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "ظُرُوف",
+          "turkish": "Koşullar",
+          "root": "ظ ر ف",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "مُؤَهَّل",
+          "turkish": "Nitelikli",
+          "root": "أ ه ل",
+          "wordType": "Sıfat"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "2030 yılına kadar kaç ek öğretmene ihtiyaç var?",
+          "options": [
+            "5 milyon",
+            "50 milyon",
+            "150 milyon"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "Metinde “خَمْسِينَ مِلْيُونَ” yani 50 milyon deniyor."
+        },
+        {
+          "questionTr": "Yeni öğretmenlerin önemli bir bölümü ne yapacak?",
+          "options": [
+            "Sadece okul inşa edecek",
+            "Sadece yazılım geliştirecek",
+            "Mesleği bırakanların yerini alacak"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“مَحَلَّ مُعَلِّمِينَ يَتْرُكُونَ الْمِهْنَةَ” ifadesi bunu açıklar."
+        },
+        {
+          "questionTr": "UNESCO neyin geliştirilmesini önemli buluyor?",
+          "options": [
+            "Öğretmenlerin çalışma koşullarının",
+            "Sınavların tamamen kaldırılmasının",
+            "Kitapların yasaklanmasının"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "“تَحْسِينِ ظُرُوفِ عَمَلِهِمْ” öğretmenlerin çalışma koşullarını iyileştirmektir."
         }
       ]
     },
@@ -685,6 +855,91 @@
           ],
           "correctIndex": 1,
           "explanationTr": "“تَنْتَقِلُ الْمَعْرِفَةُ وَالْخِبْرَاتُ” bilgi ve deneyim aktarımını belirtir."
+        }
+      ]
+    },
+    {
+      "id": "unesco_kenya_digital_teachers_20261001",
+      "titleAr": "مُعَلِّمَتَانِ فِي كِينْيَا تَجْمَعَانِ بَيْنَ التِّقْنِيَةِ وَالتَّعْلِيمِ",
+      "titleTr": "Kenya'da Öğretmenler Teknoloji ile İnsan İlişkisini Birleştiriyor",
+      "summaryTr": "UNESCO, Kenyalı öğretmenlerin dijital araçlardan yararlanırken öğrencilerle kişisel ilişkiyi koruduğunu anlatıyor.",
+      "category": "Eğitim",
+      "level": "B1",
+      "publishedAt": "2026-10-01",
+      "textAr": "نَشَرَتِ الْيُونِسْكُو قِصَّةَ مُعَلِّمَتَيْنِ فِي كِينْيَا تَسْتَخْدِمَانِ الْحَوَاسِيبَ فِي التَّعْلِيمِ. وَتُسَاعِدُ هَذِهِ الْأَجْهِزَةُ الطُّلَّابَ عَلَى الْبَحْثِ عَنْ مَعْلُومَاتٍ وَمُرَاجَعَةِ الدُّرُوسِ بِالسُّرْعَةِ الْمُنَاسِبَةِ لَهُمْ. وَلَكِنَّ الْمَدَارِسَ لَا تَمْلِكُ دَائِمًا عَدَدًا كَافِيًا مِنَ الْحَوَاسِيبِ. وَتَرَى الْمُعَلِّمَتَانِ أَنَّ التِّقْنِيَةَ لَا تَسْتَطِيعُ تَعْوِيضَ الْعَلَاقَةِ الْإِنْسَانِيَّةِ بَيْنَ الْمُعَلِّمِ وَالطَّالِبِ. وَتُؤَكِّدَانِ أَهَمِّيَّةَ تَدْرِيبِ الْمُعَلِّمِينَ عَلَى اسْتِخْدَامِ الْأَدَوَاتِ الرَّقْمِيَّةِ بِشَكْلٍ آمِنٍ وَفَعَّالٍ.",
+      "translationTr": "UNESCO, Kenya'da bilgisayarları eğitimde kullanan iki öğretmenin deneyimini anlattı. Bu cihazlar öğrencilerin araştırma yapmasına ve dersleri kendi hızlarında tekrar etmesine yardımcı oluyor. Ancak okullarda her zaman yeterli sayıda bilgisayar bulunmuyor. Öğretmenler teknolojinin öğretmen ve öğrenci arasındaki insani bağı ortadan kaldıramayacağını savunuyor. Ayrıca dijital araçların güvenli ve etkili kullanımı için öğretmen eğitimini önemli görüyorlar.",
+      "sourceName": "UNESCO – eğitim uyarlaması",
+      "sourceUrl": "https://www.unesco.org/en/articles/how-kenyan-teachers-embrace-technology-while-keeping-human-connection-classroom",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "الْحَوَاسِيب",
+          "turkish": "Bilgisayarlar",
+          "root": "ح س ب",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْبَحْث",
+          "turkish": "Araştırma",
+          "root": "ب ح ث",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "مُرَاجَعَة",
+          "turkish": "Tekrar / gözden geçirme",
+          "root": "ر ج ع",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "تَعْوِيض",
+          "turkish": "Yerine koyma",
+          "root": "ع و ض",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الْعَلَاقَة",
+          "turkish": "İlişki",
+          "root": "ع ل ق",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "تَدْرِيب",
+          "turkish": "Eğitim / yetiştirme",
+          "root": "د ر ب",
+          "wordType": "Mastar"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Haber hangi ülkenin öğretmenlerinden söz ediyor?",
+          "options": [
+            "Türkiye",
+            "Mısır",
+            "Kenya"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“فِي كِينْيَا” Kenya anlamındadır."
+        },
+        {
+          "questionTr": "Dijital araçların faydası hangisidir?",
+          "options": [
+            "Dersleri tekrar etmeyi kolaylaştırması",
+            "Öğretmenleri tamamen gereksiz kılması",
+            "Okulları kapatması"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metinde öğrencilerin dersleri tekrar etmesine yardımcı olduğu belirtilir."
+        },
+        {
+          "questionTr": "Öğretmenlere göre teknoloji neyin yerini tutamaz?",
+          "options": [
+            "Tahtanın",
+            "İnsan ilişkilerinin",
+            "İnternet kablolarının"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“الْعَلَاقَةِ الْإِنْسَانِيَّةِ” öğretmen ve öğrenci arasındaki insani ilişkiyi ifade eder."
         }
       ]
     },
