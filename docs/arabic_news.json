@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T07:59:17.704Z",
+  "updatedAt": "2026-10-24T08:00:53.798Z",
   "news": [
     {
       "id": "who_blood_donation_20261023",
@@ -436,6 +436,90 @@
       ]
     },
     {
+      "id": "nasa_chandra_galaxies_20261014",
+      "titleAr": "مَرْصَدُ شَانْدْرَا يَدْرُسُ تَصَادُمَ مَجْمُوعَتَيْنِ مِنَ الْمَجَرَّاتِ",
+      "titleTr": "NASA, İki Galaksi Kümesinin Çarpışmasını İnceledi",
+      "summaryTr": "Chandra gözlemleri, radyo dalgalarının sıra dışı görünümünü açıklamaya yardımcı oldu.",
+      "category": "Bilim",
+      "level": "B2",
+      "publishedAt": "2026-10-14",
+      "textAr": "دَرَسَ عُلَمَاءُ الْفَلَكِ صُورًا جَمَعَهَا مَرْصَدُ شَانْدْرَا الْفَضَائِيُّ التَّابِعُ لِنَاسَا. وَتَظْهَرُ فِي الْبَيَانَاتِ مَوْجَاتٌ رَادْيُويَّةٌ عَلَى شَكْلٍ يُشْبِهُ عَلَامَةً مُوسِيقِيَّةً، وَلِذَلِكَ أَطْلَقَ عَلَيْهَا الْبَاحِثُونَ اسْمًا مُسْتَوْحًى مِنَ الْمُوسِيقَى. وَيَرَى الْفَرِيقُ أَنَّ الشَّكْلَ قَدْ يَكُونُ نَتِيجَةَ نَشَاطِ ثَقْبٍ أَسْوَدَ هَائِلٍ، تَبِعَهُ تَصَادُمُ مَجْمُوعَتَيْنِ مِنَ الْمَجَرَّاتِ. وَكَانَ فَهْمُ هَذِهِ الْمِنْطَقَةِ صَعْبًا لِأَنَّ الْغُبَارَ وَالنُّجُومَ فِي مَجَرَّتِنَا تَحْجُبُ جُزْءًا مِنْهَا. وَيَجْمَعُ الْعُلَمَاءُ بَيْنَ أَرْصَادِ الْأَشِعَّةِ السِّينِيَّةِ وَالرَّادْيُو لِفَهْمِ مَا حَدَثَ.",
+      "translationTr": "Gökbilimciler NASA'nın Chandra Uzay Gözlemevi'nden elde edilen verileri inceledi. Radyo dalgalarının oluşturduğu olağan dışı şekil bir müzik işaretine benzetildi ve bu nedenle müzikle ilgili bir ad aldı. Araştırmacılara göre şekil, dev bir kara deliğin faaliyeti ve ardından iki galaksi kümesinin çarpışmasıyla oluşmuş olabilir. Bölgede kendi galaksimizdeki toz ve yıldızların görüşü engellemesi incelemeyi zorlaştırıyor. Bilim insanları X-ışını ve radyo gözlemlerini birlikte kullanıyor.",
+      "sourceName": "NASA Chandra – eğitim uyarlaması",
+      "sourceUrl": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "مَرْصَد",
+          "turkish": "Gözlemevi",
+          "root": "ر ص د",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمَجَرَّات",
+          "turkish": "Galaksiler",
+          "root": "م ج ر",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "تَصَادُم",
+          "turkish": "Çarpışma",
+          "root": "ص د م",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "ثَقْبٌ أَسْوَد",
+          "turkish": "Kara delik",
+          "wordType": "İsim tamlaması"
+        },
+        {
+          "arabic": "الْغُبَار",
+          "turkish": "Toz",
+          "root": "غ ب ر",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْأَشِعَّة",
+          "turkish": "Işınlar",
+          "root": "ش ع ع",
+          "wordType": "Çoğul"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Hangi NASA gözlemevinden söz ediliyor?",
+          "options": [
+            "Chandra",
+            "Hubble",
+            "Kepler"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "İlk cümlede “مَرْصَدُ شَانْدْرَا” yazıyor."
+        },
+        {
+          "questionTr": "Radyo dalgalarının şekli neye benzetilmiş?",
+          "options": [
+            "Bir nehre",
+            "Bir müzik işaretine",
+            "Bir kitaba"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“عَلَامَةً مُوسِيقِيَّةً” müzik işaretidir."
+        },
+        {
+          "questionTr": "Bu oluşuma hangi olayın neden olmuş olabileceği düşünülüyor?",
+          "options": [
+            "Okyanus akıntısı",
+            "Deprem",
+            "Kara delik faaliyeti ve galaksi kümelerinin çarpışması"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "Üçüncü cümlede kara delik ve galaksi kümelerinin çarpışması anlatılır."
+        }
+      ]
+    },
+    {
       "id": "imf_global_growth_20261013",
       "titleAr": "صُنْدُوقُ النَّقْدِ يَنْشُرُ تَوَقُّعَاتِ النُّمُوِّ الْعَالَمِيِّ",
       "titleTr": "IMF 2026 Küresel Büyüme Tahminini Açıkladı",
@@ -602,6 +686,89 @@
           ],
           "correctIndex": 2,
           "explanationTr": "Son cümle rakamlarla yetinilmemesi gerektiğini vurgular."
+        }
+      ]
+    },
+    {
+      "id": "nasa_webb_ngc7129_20261006",
+      "titleAr": "تِلِسْكُوبُ وَيْبْ يَكْشِفُ نُجُومًا صَغِيرَةً خَلْفَ سُحُبِ الْغُبَارِ",
+      "titleTr": "Webb Teleskobu, Toz Bulutlarının Ardındaki Genç Yıldızları Görüntüledi",
+      "summaryTr": "James Webb Uzay Teleskobu, NGC 7129 yıldız oluşum bölgesinin ayrıntılarını gözlemledi.",
+      "category": "Bilim",
+      "level": "A2",
+      "publishedAt": "2026-10-06",
+      "textAr": "الْتَقَطَ تِلِسْكُوبُ جَيْمْس وَيْبْ الْفَضَائِيُّ صُورَةً جَدِيدَةً لِمِنْطَقَةٍ تُولَدُ فِيهَا النُّجُومُ. وَتُسَمَّى هَذِهِ الْمِنْطَقَةُ «إِنْ جِي سِي ٧١٢٩»، وَتَقَعُ عَلَى بُعْدِ نَحْوِ ثَلَاثَةِ آلَافٍ وَثَلَاثِمِئَةِ سَنَةٍ ضَوْئِيَّةٍ مِنَ الْأَرْضِ. وَتُخْفِي سُحُبُ الْغُبَارِ بَعْضَ النُّجُومِ عَنِ التِّلِسْكُوبَاتِ الْعَادِيَّةِ. أَمَّا وَيْبْ فَيَسْتَخْدِمُ ضَوْءَ الْأَشِعَّةِ تَحْتَ الْحَمْرَاءِ لِرُؤْيَةِ تَفَاصِيلَ أَكْثَرَ. وَتُسَاعِدُ الصُّوَرُ الْعُلَمَاءَ عَلَى فَهْمِ كَيْفِيَّةِ وِلَادَةِ النُّجُومِ وَحَرَكَةِ الْغَازِ حَوْلَهَا.",
+      "translationTr": "James Webb Uzay Teleskobu yıldızların doğduğu bir bölgenin yeni görüntüsünü çekti. NGC 7129 adı verilen bölge Dünya'dan yaklaşık 3.300 ışık yılı uzaklıktadır. Toz bulutları bazı yıldızları sıradan teleskoplardan gizler. Webb ise kızılötesi ışığı kullanarak daha fazla ayrıntıyı görebilir. Görüntüler, bilim insanlarının yıldız oluşumunu ve çevresindeki gaz hareketini anlamasına yardımcı oluyor.",
+      "sourceName": "NASA Webb – eğitim uyarlaması",
+      "sourceUrl": "https://science.nasa.gov/missions/webb/nasas-webb-captures-commotion-from-nebulas-stellar-jets/",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "تِلِسْكُوب",
+          "turkish": "Teleskop",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "النُّجُوم",
+          "turkish": "Yıldızlar",
+          "root": "ن ج م",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْغُبَار",
+          "turkish": "Toz",
+          "root": "غ ب ر",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "سَنَةٌ ضَوْئِيَّة",
+          "turkish": "Işık yılı",
+          "wordType": "İsim tamlaması"
+        },
+        {
+          "arabic": "الْأَشِعَّة",
+          "turkish": "Işınlar",
+          "root": "ش ع ع",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "تَفَاصِيل",
+          "turkish": "Ayrıntılar",
+          "root": "ف ص ل",
+          "wordType": "Çoğul"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Webb hangi bölgeyi gözlemledi?",
+          "options": [
+            "Sahra Çölü'nü",
+            "NGC 7129'u",
+            "Atlantik Okyanusu'nu"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "Metin “إِنْ جِي سِي ٧١٢٩” bölgesini anlatır."
+        },
+        {
+          "questionTr": "Bu bölge Dünya'dan yaklaşık ne kadar uzak?",
+          "options": [
+            "3.300 ışık yılı",
+            "330 kilometre",
+            "30 metre"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "“ثَلَاثَةِ آلَافٍ وَثَلَاثِمِئَةِ سَنَةٍ ضَوْئِيَّةٍ” 3.300 ışık yılıdır."
+        },
+        {
+          "questionTr": "Webb neden tozun ardını görebiliyor?",
+          "options": [
+            "Havayı temizlediği için",
+            "Tozu kaldırdığı için",
+            "Kızılötesi ışık kullandığı için"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“الْأَشِعَّةِ تَحْتَ الْحَمْرَاءِ” kızılötesi ışığı anlatır."
         }
       ]
     },
@@ -940,6 +1107,90 @@
           ],
           "correctIndex": 1,
           "explanationTr": "“الْعَلَاقَةِ الْإِنْسَانِيَّةِ” öğretmen ve öğrenci arasındaki insani ilişkiyi ifade eder."
+        }
+      ]
+    },
+    {
+      "id": "nasa_webb_planet_collisions_20261001",
+      "titleAr": "وَيْبْ يَدْرُسُ آثَارَ تَصَادُمَاتٍ بَيْنَ أَجْسَامٍ كَوْكَبِيَّةٍ",
+      "titleTr": "Webb, Genç Gezegen Sistemlerindeki Büyük Çarpışmaları İnceliyor",
+      "summaryTr": "NASA araştırmacıları gezegen sistemlerindeki aşırı çarpışmaların bıraktığı toz disklerini araştırıyor.",
+      "category": "Bilim",
+      "level": "C1",
+      "publishedAt": "2026-10-01",
+      "textAr": "يَدْرُسُ الْفَلَكِيُّونَ أَقْرَاصًا مِنَ الْغُبَارِ تَدُورُ حَوْلَ نُجُومٍ فَتِيَّةٍ لِفَهْمِ التَّصَادُمَاتِ الضَّخْمَةِ بَيْنَ الْأَجْسَامِ الْكَوْكَبِيَّةِ. وَتُسَاعِدُ أَرْصَادُ تِلِسْكُوبِ جَيْمْس وَيْبْ عَلَى تَحْلِيلِ التَّغَيُّرَاتِ فِي هَذِهِ الْأَقْرَاصِ، بِمَا فِي ذَلِكَ الْمَوَادُّ الَّتِي تَظْهَرُ بَعْدَ الِاصْطِدَامِ. وَيَعْتَقِدُ الْبَاحِثُونَ أَنَّ حَوَادِثَ مُشَابِهَةً قَدْ وَقَعَتْ فِي الْمَرَاحِلِ الْمُبَكِّرَةِ لِنِظَامِنَا الشَّمْسِيِّ. وَتَتَضَمَّنُ إِحْدَى الْفَرَضِيَّاتِ الْعِلْمِيَّةِ تَصَادُمَ جِسْمٍ بِحَجْمِ الْمِرِّيخِ مَعَ الْأَرْضِ الْفَتِيَّةِ، مِمَّا أَسْهَمَ فِي تَكَوُّنِ الْقَمَرِ. وَهَذَا سِينَارْيُو عِلْمِيٌّ يُدْرَسُ بِالْأَدِلَّةِ، وَلَيْسَ مُشَاهَدَةً مُبَاشِرَةً لِلْمَاضِي.",
+      "translationTr": "Gökbilimciler genç yıldızların çevresindeki toz disklerini inceleyerek gezegenimsi cisimler arasındaki büyük çarpışmaları anlamaya çalışıyor. James Webb gözlemleri, çarpışmalardan sonra ortaya çıkan maddeler dâhil bu disklerin değişimini incelemeye yardımcı oluyor. Araştırmacılar benzer olayların Güneş sistemimizin ilk dönemlerinde gerçekleşmiş olabileceğini düşünüyor. Bilimsel varsayımlardan biri, Mars büyüklüğünde bir cismin genç Dünya'ya çarparak Ay'ın oluşumuna katkıda bulunmuş olmasıdır. Bu, geçmişin doğrudan gözlemi değil, kanıtlarla incelenen bir bilimsel senaryodur.",
+      "sourceName": "NASA Webb – eğitim uyarlaması",
+      "sourceUrl": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "أَقْرَاص",
+          "turkish": "Diskler",
+          "root": "ق ر ص",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "تَصَادُمَات",
+          "turkish": "Çarpışmalar",
+          "root": "ص د م",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْكَوْكَبِيَّة",
+          "turkish": "Gezegensel",
+          "root": "ك و ك ب",
+          "wordType": "Sıfat"
+        },
+        {
+          "arabic": "الْفَرَضِيَّات",
+          "turkish": "Varsayımlar",
+          "root": "ف ر ض",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْمِرِّيخ",
+          "turkish": "Mars",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْأَدِلَّة",
+          "turkish": "Kanıtlar",
+          "root": "د ل ل",
+          "wordType": "Çoğul"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Bilim insanları hangi yapıları inceliyor?",
+          "options": [
+            "Genç yıldızların çevresindeki toz disklerini",
+            "Deniz tabanındaki kumları",
+            "Ormanlardaki ağaçları"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "İlk cümle yıldızların çevresindeki toz disklerinden söz eder."
+        },
+        {
+          "questionTr": "Ay'ın oluşumuyla ilgili varsayımlardan biri nedir?",
+          "options": [
+            "Güneş'in sönmesi",
+            "Dünya'ya Mars büyüklüğünde bir cismin çarpması",
+            "Deniz seviyesinin yükselmesi"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "Mars büyüklüğündeki cismin genç Dünya ile çarpışmasından söz edilir."
+        },
+        {
+          "questionTr": "Metin bu senaryonun niteliğini nasıl açıklıyor?",
+          "options": [
+            "Kesin olarak gözlenmiş",
+            "Efsane olarak",
+            "Kanıtlarla incelenen varsayım olarak"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "Son cümle olayın doğrudan gözlenmediğini belirtir."
         }
       ]
     },
