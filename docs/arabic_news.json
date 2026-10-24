@@ -1,7 +1,177 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T07:00:00Z",
+  "updatedAt": "2026-10-24T07:30:12.091Z",
   "news": [
+    {
+      "id": "who_blood_donation_20261023",
+      "titleAr": "الصِّحَّةُ الْعَالَمِيَّةُ وَفَرِيقٌ مُوسِيقِيٌّ يُشَجِّعَانِ عَلَى التَّبَرُّعِ بِالدَّمِ",
+      "titleTr": "DSÖ ve ENHYPEN Kan Bağışını Teşvik Ediyor",
+      "summaryTr": "DSÖ ve ENHYPEN gençlerin gönüllü kan bağışına katılımını artırmaya çalışıyor.",
+      "category": "Sağlık",
+      "level": "A1",
+      "publishedAt": "2026-10-23",
+      "textAr": "تَعْمَلُ مُنَظَّمَةُ الصِّحَّةِ الْعَالَمِيَّةِ مَعَ فَرِيقِ إِنْهَايْبِنْ الْمُوسِيقِيِّ لِتَشْجِيعِ الشَّبَابِ عَلَى التَّبَرُّعِ بِالدَّمِ. وَفِي الثَّانِي وَالْعِشْرِينَ مِنْ أُكْتُوبَرَ، الْتَقَى مُدِيرُ الْمُنَظَّمَةِ بِأَعْضَاءِ الْفَرِيقِ فِي سِيئُولَ. وَقَالَتِ الْمُنَظَّمَةُ إِنَّ التَّبَرُّعَ بِالدَّمِ يُسَاعِدُ عَلَى إِنْقَاذِ حَيَاةِ الْمَرْضَى. وَشَارَكَ مُعْجَبُونَ مِنْ دُوَلٍ مُخْتَلِفَةٍ فِي الْحَمْلَةِ. وَتُشَجِّعُ الْحَمْلَةُ النَّاسَ عَلَى التَّبَرُّعِ الطَّوْعِيِّ مِنْ دُونِ مُقَابِلٍ مَالِيٍّ.",
+      "translationTr": "Dünya Sağlık Örgütü, gençleri kan bağışına teşvik etmek için ENHYPEN müzik grubuyla birlikte çalışıyor. Örgütün genel direktörü 22 Ekim'de Seul'de grup üyeleriyle buluştu. Örgüt, kan bağışının hastaların hayatını kurtarmaya yardımcı olduğunu söyledi. Farklı ülkelerden hayranlar kampanyaya katıldı. Kampanya, insanları ücret almadan gönüllü kan bağışında bulunmaya teşvik ediyor.",
+      "sourceName": "Dünya Sağlık Örgütü – eğitim uyarlaması",
+      "sourceUrl": "https://www.who.int/vanuatu/news/detail-global/23-10-2026-who-and-enhypen-join-efforts-to-inspire-young-blood-donors-globally",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "التَّبَرُّع",
+          "turkish": "Bağış",
+          "root": "ب ر ع",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الدَّم",
+          "turkish": "Kan",
+          "root": "د م و",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الشَّبَاب",
+          "turkish": "Gençler",
+          "root": "ش ب ب",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "حَمْلَة",
+          "turkish": "Kampanya",
+          "root": "ح م ل",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمَرْضَى",
+          "turkish": "Hastalar",
+          "root": "م ر ض",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "طَوْعِيّ",
+          "turkish": "Gönüllü",
+          "root": "ط و ع",
+          "wordType": "Sıfat"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Kampanya neyi teşvik ediyor?",
+          "options": [
+            "Kan bağışını",
+            "Yeni telefon almayı",
+            "Spor yapmayı"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "“التَّبَرُّعِ بِالدَّمِ” kan bağışını ifade eder."
+        },
+        {
+          "questionTr": "Grup üyeleriyle görüşme hangi şehirde yapıldı?",
+          "options": [
+            "Kahire",
+            "Seul",
+            "İstanbul"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "Haberde “فِي سِيئُولَ” ifadesi geçiyor."
+        },
+        {
+          "questionTr": "Kan bağışının faydası nedir?",
+          "options": [
+            "Seyahati hızlandırmak",
+            "Yeni meslek öğrenmek",
+            "Hayat kurtarmaya yardımcı olmak"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“إِنْقَاذِ حَيَاةِ الْمَرْضَى” ifadesi hastaların hayatını kurtarmayı anlatır."
+        }
+      ]
+    },
+    {
+      "id": "who_extreme_heat_20261021",
+      "titleAr": "خُطَّةٌ دَوْلِيَّةٌ لِحِمَايَةِ الْأُمَّهَاتِ وَالْأَطْفَالِ مِنَ الْحَرَارَةِ الشَّدِيدَةِ",
+      "titleTr": "Aşırı Sıcaklarda Anne ve Çocuk Sağlığını Koruma Planı",
+      "summaryTr": "DSÖ ve ortakları aşırı sıcağın hamileler, yenidoğanlar ve çocuklar üzerindeki etkilerini takip etmek için yeni göstergeler duyurdu.",
+      "category": "Sağlık",
+      "level": "B2",
+      "publishedAt": "2026-10-21",
+      "textAr": "أَعْلَنَتْ مُنَظَّمَةُ الصِّحَّةِ الْعَالَمِيَّةُ، مَعَ شُرَكَاءَ دَوْلِيِّينَ، عَنْ إِطَارٍ جَدِيدٍ لِرَصْدِ أَثَرِ الْحَرَارَةِ الشَّدِيدَةِ عَلَى الصِّحَّةِ. وَيُرَكِّزُ الْإِطَارُ عَلَى النِّسَاءِ الْحَوَامِلِ وَحَدِيثِي الْوِلَادَةِ وَالْأَطْفَالِ. وَيَضَعُ مَجْمُوعَةً مِنَ الْمُؤَشِّرَاتِ الَّتِي تَسْتَخْدِمُهَا الدُّوَلُ لِفَهْمِ الْمَخَاطِرِ وَالِاسْتِعْدَادِ لَهَا. وَمِنْ هَذِهِ الْمُؤَشِّرَاتِ الْوِلَادَةُ الْمُبَكِّرَةُ وَصِحَّةُ الْأَطْفَالِ وَزِيَارَاتُ الْمَرَاكِزِ الصِّحِّيَّةِ. وَالْهَدَفُ لَيْسَ جَمْعَ الْبَيَانَاتِ فَقَطْ، بَلْ مُسَاعَدَةَ السُّلُطَاتِ عَلَى اتِّخَاذِ إِجْرَاءَاتٍ وِقَائِيَّةٍ فِي الْوَقْتِ الْمُنَاسِبِ.",
+      "translationTr": "Dünya Sağlık Örgütü ve uluslararası ortakları, aşırı sıcaklığın sağlık üzerindeki etkilerini izlemek için yeni bir çerçeve açıkladı. Çerçeve hamile kadınlara, yenidoğanlara ve çocuklara odaklanıyor. Ülkelerin riskleri anlamak ve bunlara hazırlanmak için kullanabileceği göstergeler belirleniyor. Bu göstergeler arasında erken doğum, çocuk sağlığı ve sağlık kuruluşlarına başvurular bulunuyor. Amaç yalnızca veri toplamak değil, yetkililerin zamanında koruyucu önlemler almasını da desteklemek.",
+      "sourceName": "Dünya Sağlık Örgütü – eğitim uyarlaması",
+      "sourceUrl": "https://www.who.int/kiribati/news/detail-global/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "إِطَار",
+          "turkish": "Çerçeve",
+          "root": "أ ط ر",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "رَصْد",
+          "turkish": "İzleme",
+          "root": "ر ص د",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الْحَوَامِل",
+          "turkish": "Hamile kadınlar",
+          "root": "ح م ل",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْمُؤَشِّرَات",
+          "turkish": "Göstergeler",
+          "root": "أ ش ر",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْمَخَاطِر",
+          "turkish": "Riskler",
+          "root": "خ ط ر",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "وِقَائِيَّة",
+          "turkish": "Koruyucu",
+          "root": "و ق ي",
+          "wordType": "Sıfat"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Yeni çerçevenin temel amacı nedir?",
+          "options": [
+            "Aşırı sıcağın sağlık etkilerini izlemek",
+            "Yeni yollar inşa etmek",
+            "Turizm gelirlerini ölçmek"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "“لِرَصْدِ أَثَرِ الْحَرَارَةِ الشَّدِيدَةِ عَلَى الصِّحَّةِ” ifadesi aşırı sıcağın sağlık etkilerini izlemeyi anlatır."
+        },
+        {
+          "questionTr": "Çerçeve hangi gruplara odaklanıyor?",
+          "options": [
+            "Yalnızca sporculara",
+            "Hamileler, yenidoğanlar ve çocuklara",
+            "Yalnızca üniversite öğrencilerine"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "Bu üç grup metinde açıkça sayılmıştır."
+        },
+        {
+          "questionTr": "Veri toplamanın ötesinde ne hedefleniyor?",
+          "options": [
+            "Okulları kapatmak",
+            "Sağlık hizmetlerini azaltmak",
+            "Koruyucu önlemleri zamanında almak"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "Son cümle zamanında “إِجْرَاءَاتٍ وِقَائِيَّةٍ” alınmasını vurgular."
+        }
+      ]
+    },
     {
       "id": "nasa_space_symposium_20261022",
       "titleAr": "نَاسَا تَعْلِنُ عَنْ مُلْتَقًى لِاسْتِكْشَافِ الْفَضَاءِ",
@@ -104,510 +274,6 @@
           ],
           "correctIndex": 0,
           "explanationTr": "Metinde yer “بِمَدِينَةِ هَانْتْسْفِيلَ” şeklinde belirtilmiştir."
-        }
-      ]
-    },
-    {
-      "id": "demo_education_001",
-      "titleAr": "يَوْمٌ لِلْقِرَاءَةِ فِي الْجَامِعَةِ",
-      "titleTr": "Üniversitede Okuma Günü",
-      "summaryTr": "Öğrencilerin kitaplarla buluşmasını anlatan kısa bir örnek metin.",
-      "category": "Eğitim",
-      "level": "A1",
-      "publishedAt": "2026-10-23",
-      "textAr": "نَظَّمَ الطُّلَّابُ يَوْمًا لِلْقِرَاءَةِ فِي الْجَامِعَةِ. جَاءَ طُلَّابٌ مِنْ أَقْسَامٍ مُخْتَلِفَةٍ إِلَى الْمَكْتَبَةِ. قَرَأَ بَعْضُهُمْ قِصَصًا قَصِيرَةً، وَتَحَدَّثَ آخَرُونَ عَنْ كُتُبِهِمُ الْمُفَضَّلَةِ. قَالَ الْمُنَظِّمُونَ إِنَّ الْقِرَاءَةَ تُسَاعِدُ عَلَى تَعَلُّمِ كَلِمَاتٍ جَدِيدَةٍ. وَفِي نِهَايَةِ الْيَوْمِ، أَخَذَ الطُّلَّابُ قَائِمَةً بِكُتُبٍ يُمْكِنُهُمْ قِرَاءَتُهَا فِي الْبَيْتِ.",
-      "translationTr": "Öğrenciler üniversitede bir okuma günü düzenledi. Farklı bölümlerden öğrenciler kütüphaneye geldi. Bazıları kısa hikâyeler okudu, diğerleri sevdikleri kitaplar hakkında konuştu. Düzenleyiciler, okumanın yeni kelimeler öğrenmeye yardımcı olduğunu söyledi. Günün sonunda öğrenciler evde okuyabilecekleri kitapların listesini aldı.",
-      "sourceName": "Örnek eğitim metni",
-      "sourceUrl": null,
-      "imageUrl": null,
-      "isSample": true,
-      "vocabulary": [
-        {
-          "arabic": "الْجَامِعَة",
-          "turkish": "Üniversite",
-          "root": "ج م ع",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "مَكْتَبَة",
-          "turkish": "Kütüphane",
-          "root": "ك ت ب",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "قِرَاءَة",
-          "turkish": "Okuma",
-          "root": "ق ر أ",
-          "wordType": "Mastar"
-        },
-        {
-          "arabic": "أَقْسَام",
-          "turkish": "Bölümler",
-          "root": "ق س م",
-          "wordType": "Çoğul"
-        },
-        {
-          "arabic": "قِصَص",
-          "turkish": "Hikâyeler",
-          "root": "ق ص ص",
-          "wordType": "Çoğul"
-        },
-        {
-          "arabic": "قَائِمَة",
-          "turkish": "Liste",
-          "root": "ق و م",
-          "wordType": "İsim"
-        }
-      ],
-      "questions": [
-        {
-          "questionTr": "Etkinlik nerede düzenlendi?",
-          "options": [
-            "Üniversitede",
-            "Hastanede",
-            "Parkta"
-          ],
-          "correctIndex": 0,
-          "explanationTr": "Metinde “فِي الْجَامِعَةِ” ifadesi geçiyor."
-        },
-        {
-          "questionTr": "Öğrenciler günün sonunda ne aldı?",
-          "options": [
-            "Yeni bir telefon",
-            "Kitap listesi",
-            "Spor malzemesi"
-          ],
-          "correctIndex": 1,
-          "explanationTr": "Son cümlede kitap listesi aldıkları belirtiliyor."
-        },
-        {
-          "questionTr": "Metne göre okumanın yararı nedir?",
-          "options": [
-            "Yeni kelimeler öğrenmek",
-            "Daha az uyumak",
-            "Daha hızlı koşmak"
-          ],
-          "correctIndex": 0,
-          "explanationTr": "Düzenleyiciler okumanın kelime öğrenmeye yardımcı olduğunu söylüyor."
-        }
-      ]
-    },
-    {
-      "id": "demo_environment_002",
-      "titleAr": "حَمْلَةٌ لِتَقْلِيلِ اسْتِخْدَامِ الْبِلَاسْتِيكِ",
-      "titleTr": "Plastik Kullanımını Azaltma Kampanyası",
-      "summaryTr": "Günlük yaşamda tekrar kullanılabilir ürünleri konu alan örnek haber.",
-      "category": "Çevre",
-      "level": "A2",
-      "publishedAt": "2026-10-23",
-      "textAr": "أَطْلَقَتْ مَجْمُوعَةٌ مِنَ الْمُتَطَوِّعِينَ حَمْلَةً لِتَقْلِيلِ النُّفَايَاتِ الْبِلَاسْتِيكِيَّةِ. وَزَّعَ الْمُتَطَوِّعُونَ أَكْيَاسًا قَابِلَةً لِإِعَادَةِ الِاسْتِخْدَامِ، وَشَرَحُوا لِلنَّاسِ طُرُقًا بَسِيطَةً لِحِمَايَةِ الْبِيئَةِ. وَأَكَّدُوا أَنَّ الْخُطْوَاتِ الصَّغِيرَةَ، مِثْلَ حَمْلِ زُجَاجَةِ مَاءٍ شَخْصِيَّةٍ، يُمْكِنُ أَنْ تُقَلِّلَ كَمِّيَّةَ النُّفَايَاتِ. وَدَعَتِ الْحَمْلَةُ السُّكَّانَ إِلَى مُوَاصَلَةِ هَذِهِ الْعَادَاتِ بَعْدَ انْتِهَاءِ النَّشَاطِ.",
-      "translationTr": "Bir gönüllü grubu plastik atıkları azaltmak için kampanya başlattı. Gönüllüler yeniden kullanılabilir çantalar dağıttı ve insanlara çevreyi korumanın basit yollarını anlattı. Kişisel su şişesi taşımak gibi küçük adımların atık miktarını azaltabileceğini vurguladılar. Kampanya, halkı etkinlik bittikten sonra da bu alışkanlıkları sürdürmeye çağırdı.",
-      "sourceName": "Örnek eğitim metni",
-      "sourceUrl": null,
-      "imageUrl": null,
-      "isSample": true,
-      "vocabulary": [
-        {
-          "arabic": "الْمُتَطَوِّعُونَ",
-          "turkish": "Gönüllüler",
-          "root": "ط و ع",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "النُّفَايَات",
-          "turkish": "Atıklar",
-          "root": "ن ف ي",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "قَابِل",
-          "turkish": "Elverişli / uygun",
-          "root": "ق ب ل",
-          "wordType": "Sıfat"
-        },
-        {
-          "arabic": "حِمَايَة",
-          "turkish": "Koruma",
-          "root": "ح م ي",
-          "wordType": "Mastar"
-        },
-        {
-          "arabic": "الْبِيئَة",
-          "turkish": "Çevre",
-          "root": "ب و أ",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "مُوَاصَلَة",
-          "turkish": "Sürdürme",
-          "root": "و ص ل",
-          "wordType": "Mastar"
-        }
-      ],
-      "questions": [
-        {
-          "questionTr": "Kampanyanın temel amacı nedir?",
-          "options": [
-            "Plastik atıkları azaltmak",
-            "Yeni yol yapmak",
-            "Kitap toplamak"
-          ],
-          "correctIndex": 0,
-          "explanationTr": "İlk cümlede plastik atıkların azaltılması vurgulanır."
-        },
-        {
-          "questionTr": "Gönüllüler ne dağıttı?",
-          "options": [
-            "Tek kullanımlık tabaklar",
-            "Yeniden kullanılabilir çantalar",
-            "Gazeteler"
-          ],
-          "correctIndex": 1,
-          "explanationTr": "Metindeki “أَكْيَاسًا قَابِلَةً لِإِعَادَةِ الِاسْتِخْدَامِ” ifadesine dikkat edin."
-        },
-        {
-          "questionTr": "Metne göre küçük adımların sonucu ne olabilir?",
-          "options": [
-            "Atıklar azalabilir",
-            "Atıklar artar",
-            "Denizler kurur"
-          ],
-          "correctIndex": 0,
-          "explanationTr": "Kişisel şişe taşımak atıkları azaltabilecek bir örnek olarak verilir."
-        }
-      ]
-    },
-    {
-      "id": "demo_technology_003",
-      "titleAr": "التِّقْنِيَاتُ الْحَدِيثَةُ وَتَعَلُّمُ اللُّغَاتِ",
-      "titleTr": "Modern Teknolojiler ve Dil Öğrenimi",
-      "summaryTr": "Dijital araçların dil öğrenimindeki yarar ve sınırlarını açıklayan örnek metin.",
-      "category": "Teknoloji",
-      "level": "B1",
-      "publishedAt": "2026-10-23",
-      "textAr": "أَصْبَحَتِ التَّطْبِيقَاتُ الرَّقْمِيَّةُ جُزْءًا مُهِمًّا مِنْ تَعَلُّمِ اللُّغَاتِ. يَسْتَطِيعُ الْمُتَعَلِّمُ أَنْ يَسْتَمِعَ إِلَى نُصُوصٍ قَصِيرَةٍ وَيُرَاجِعَ الْمُفْرَدَاتِ فِي أَيِّ وَقْتٍ. وَتُسَاعِدُ بَعْضُ الْأَدَوَاتِ عَلَى تَحْسِينِ النُّطْقِ مِنْ خِلَالِ التَّكْرَارِ وَالْمُقَارَنَةِ. وَلَكِنَّ الْخُبَرَاءَ يُشِيرُونَ إِلَى أَنَّ اسْتِخْدَامَ التِّقْنِيَةِ وَحْدَهَا لَا يَكْفِي؛ فَالْمُحَادَثَةُ مَعَ الْآخَرِينَ وَالْقِرَاءَةُ الْمُنْتَظِمَةُ ضَرُورِيَّتَانِ أَيْضًا. وَالْأَفْضَلُ هُوَ الْجَمْعُ بَيْنَ الْأَدَوَاتِ الرَّقْمِيَّةِ وَالْمُمَارَسَةِ الْيَوْمِيَّةِ.",
-      "translationTr": "Dijital uygulamalar dil öğreniminin önemli bir parçası hâline geldi. Öğrenen kişi istediği zaman kısa metinler dinleyebilir ve kelimeleri gözden geçirebilir. Bazı araçlar tekrar ve karşılaştırma yoluyla telaffuzu geliştirmeye yardımcı olur. Ancak uzmanlar teknolojinin tek başına yeterli olmadığını; başkalarıyla konuşmanın ve düzenli okumanın da gerekli olduğunu belirtir. En iyi yaklaşım, dijital araçları günlük pratikle birleştirmektir.",
-      "sourceName": "Örnek eğitim metni",
-      "sourceUrl": null,
-      "imageUrl": null,
-      "isSample": true,
-      "vocabulary": [
-        {
-          "arabic": "التَّطْبِيقَات",
-          "turkish": "Uygulamalar",
-          "root": "ط ب ق",
-          "wordType": "Çoğul"
-        },
-        {
-          "arabic": "الْمُفْرَدَات",
-          "turkish": "Kelime hazinesi",
-          "root": "ف ر د",
-          "wordType": "Çoğul"
-        },
-        {
-          "arabic": "النُّطْق",
-          "turkish": "Telaffuz",
-          "root": "ن ط ق",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "الْخُبَرَاء",
-          "turkish": "Uzmanlar",
-          "root": "خ ب ر",
-          "wordType": "Çoğul"
-        },
-        {
-          "arabic": "الْمُمَارَسَة",
-          "turkish": "Uygulama / pratik",
-          "root": "م ر س",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "الْمُنْتَظِمَة",
-          "turkish": "Düzenli",
-          "root": "ن ظ م",
-          "wordType": "Sıfat"
-        }
-      ],
-      "questions": [
-        {
-          "questionTr": "Metinde dijital araçların faydalarından hangisi belirtiliyor?",
-          "options": [
-            "Telaffuzu geliştirmeye yardım",
-            "Öğretmenlerin gereksiz olması",
-            "Her dilin hemen öğrenilmesi"
-          ],
-          "correctIndex": 0,
-          "explanationTr": "Tekrar ve karşılaştırma telaffuzu geliştirebilir."
-        },
-        {
-          "questionTr": "Uzmanlara göre tek başına ne yeterli değildir?",
-          "options": [
-            "Günlük konuşma",
-            "Teknoloji kullanımı",
-            "Düzenli okuma"
-          ],
-          "correctIndex": 1,
-          "explanationTr": "“اسْتِخْدَامَ التِّقْنِيَةِ وَحْدَهَا لَا يَكْفِي” ifadesi bunu söyler."
-        },
-        {
-          "questionTr": "Metnin önerdiği yaklaşım nedir?",
-          "options": [
-            "Yalnızca uygulama kullanmak",
-            "Okumayı bırakmak",
-            "Dijital araçlarla günlük pratiği birleştirmek"
-          ],
-          "correctIndex": 2,
-          "explanationTr": "Son cümle iki yöntemin birleştirilmesini önerir."
-        }
-      ]
-    },
-    {
-      "id": "demo_health_004",
-      "titleAr": "النَّشَاطُ الْبَدَنِيُّ وَصِحَّةُ الطُّلَّابِ",
-      "titleTr": "Fiziksel Aktivite ve Öğrenci Sağlığı",
-      "summaryTr": "Hareket, dinlenme ve çalışma dengesiyle ilgili örnek içerik.",
-      "category": "Sağlık",
-      "level": "B1",
-      "publishedAt": "2026-10-23",
-      "textAr": "يَقْضِي كَثِيرٌ مِنَ الطُّلَّابِ سَاعَاتٍ طَوِيلَةً أَمَامَ الْحَاسُوبِ أَثْنَاءَ الدِّرَاسَةِ. وَقَدْ يُؤَدِّي الْجُلُوسُ الْمُسْتَمِرُّ إِلَى الشُّعُورِ بِالتَّعَبِ وَقِلَّةِ التَّرْكِيزِ. لِذَلِكَ يُنْصَحُ الطُّلَّابُ بِالْحَرَكَةِ بِانْتِظَامٍ وَأَخْذِ فَتَرَاتِ رَاحَةٍ قَصِيرَةٍ. وَيُمْكِنُ أَنْ تَكُونَ الْمَشْيَةُ الْيَوْمِيَّةُ فُرْصَةً لِتَحْسِينِ الْمِزَاجِ وَتَجْدِيدِ النَّشَاطِ. وَلَا يَعْنِي ذَلِكَ تَرْكَ الدِّرَاسَةِ، بَلْ تَنْظِيمَ الْوَقْتِ بَيْنَ الْعَمَلِ وَالرَّاحَةِ.",
-      "translationTr": "Birçok öğrenci ders çalışırken bilgisayar başında uzun saatler geçirir. Sürekli oturmak yorgunluk hissine ve dikkat azalmasına yol açabilir. Bu nedenle öğrencilere düzenli hareket etmeleri ve kısa molalar vermeleri önerilir. Günlük yürüyüş, ruh hâlini iyileştirme ve enerjiyi yenileme fırsatı olabilir. Bu, dersleri bırakmak değil; çalışma ve dinlenme zamanını düzenlemek anlamına gelir.",
-      "sourceName": "Örnek eğitim metni",
-      "sourceUrl": null,
-      "imageUrl": null,
-      "isSample": true,
-      "vocabulary": [
-        {
-          "arabic": "النَّشَاطُ الْبَدَنِيّ",
-          "turkish": "Fiziksel aktivite"
-        },
-        {
-          "arabic": "الْحَاسُوب",
-          "turkish": "Bilgisayar",
-          "root": "ح س ب",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "التَّرْكِيز",
-          "turkish": "Odaklanma",
-          "root": "ر ك ز",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "فَتَرَاتِ رَاحَة",
-          "turkish": "Dinlenme araları"
-        },
-        {
-          "arabic": "الْمِزَاج",
-          "turkish": "Ruh hâli",
-          "root": "م ز ج",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "تَنْظِيم",
-          "turkish": "Düzenleme",
-          "root": "ن ظ م",
-          "wordType": "Mastar"
-        }
-      ],
-      "questions": [
-        {
-          "questionTr": "Uzun süre oturmak neye yol açabilir?",
-          "options": [
-            "Daha iyi uykuya",
-            "Yorgunluğa ve dikkat azalmasına",
-            "Daha hızlı okumaya"
-          ],
-          "correctIndex": 1,
-          "explanationTr": "İkinci cümlede yorgunluk ve odaklanma azalması anlatılır."
-        },
-        {
-          "questionTr": "Metin öğrencilere ne öneriyor?",
-          "options": [
-            "Düzenli hareket ve kısa mola",
-            "Tüm gün bilgisayar kullanımı",
-            "Hiç yürümemek"
-          ],
-          "correctIndex": 0,
-          "explanationTr": "Metinde hareket ve dinlenme araları önerilir."
-        },
-        {
-          "questionTr": "Son cümlenin ana mesajı nedir?",
-          "options": [
-            "Dersi tamamen bırakmak",
-            "Sadece spor yapmak",
-            "Çalışma ve dinlenme arasında denge kurmak"
-          ],
-          "correctIndex": 2,
-          "explanationTr": "Son cümlede çalışma ve dinlenme zamanının düzenlenmesi vurgulanır."
-        }
-      ]
-    },
-    {
-      "id": "demo_science_005",
-      "titleAr": "كَيْفَ نَتَحَقَّقُ مِنَ الْمَعْلُومَاتِ الْعِلْمِيَّةِ؟",
-      "titleTr": "Bilimsel Bilgiyi Nasıl Doğrularız?",
-      "summaryTr": "Bilimsel iddiaların kaynaklarını değerlendirmeyi öğreten örnek metin.",
-      "category": "Bilim",
-      "level": "B2",
-      "publishedAt": "2026-10-23",
-      "textAr": "تَنْتَشِرُ الْمَعْلُومَاتُ الْعِلْمِيَّةُ بِسُرْعَةٍ عَلَى مَوَاقِعِ التَّوَاصُلِ، وَلَكِنَّ سُرْعَةَ الِانْتِشَارِ لَا تَعْنِي صِحَّةَ الْمَحْتَوَى. فَقَدْ تُنْشَرُ نَتَائِجُ دِرَاسَةٍ وَاحِدَةٍ دُونَ تَوْضِيحِ حُدُودِهَا أَوْ حَجْمِ الْعَيِّنَةِ الْمُسْتَخْدَمَةِ. وَلِتَقْيِيمِ أَيِّ ادِّعَاءٍ، مِنَ الْمُهِمِّ فَحْصُ الْمَصْدَرِ وَتَارِيخِ النَّشْرِ وَطَرِيقَةِ جَمْعِ الْبَيَانَاتِ. كَمَا يُفِيدُ الِاطِّلَاعُ عَلَى أَبْحَاثٍ مُسْتَقِلَّةٍ تَنَاوَلَتِ السُّؤَالَ نَفْسَهُ. وَيُسَاعِدُ هَذَا النَّهْجُ الْقَارِئَ عَلَى التَّمْيِيزِ بَيْنَ النَّتَائِجِ الْمُؤَقَّتَةِ وَالْمَعْرِفَةِ الْأَكْثَرِ رُسُوخًا.",
-      "translationTr": "Bilimsel bilgiler sosyal medyada hızla yayılır; ancak yayılma hızı içeriğin doğru olduğunu göstermez. Tek bir araştırmanın sonuçları, çalışmanın sınırlılıkları veya kullanılan örneklem büyüklüğü açıklanmadan paylaşılabilir. Bir iddiayı değerlendirmek için kaynağı, yayımlanma tarihini ve verilerin nasıl toplandığını incelemek önemlidir. Aynı soruyu ele alan bağımsız araştırmalara bakmak da faydalıdır. Bu yaklaşım okurun geçici bulgular ile daha sağlam bilgiler arasında ayrım yapmasına yardımcı olur.",
-      "sourceName": "Örnek eğitim metni",
-      "sourceUrl": null,
-      "imageUrl": null,
-      "isSample": true,
-      "vocabulary": [
-        {
-          "arabic": "الْعَيِّنَة",
-          "turkish": "Örneklem",
-          "root": "ع ي ن",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "ادِّعَاء",
-          "turkish": "İddia",
-          "root": "د ع و",
-          "wordType": "Mastar"
-        },
-        {
-          "arabic": "جَمْعِ الْبَيَانَات",
-          "turkish": "Veri toplama"
-        },
-        {
-          "arabic": "مُسْتَقِلَّة",
-          "turkish": "Bağımsız",
-          "root": "ق ل ل",
-          "wordType": "Sıfat"
-        },
-        {
-          "arabic": "الْمُؤَقَّتَة",
-          "turkish": "Geçici",
-          "root": "و ق ت",
-          "wordType": "Sıfat"
-        },
-        {
-          "arabic": "رُسُوخ",
-          "turkish": "Sağlamlık / kökleşme",
-          "root": "ر س خ",
-          "wordType": "Mastar"
-        }
-      ],
-      "questions": [
-        {
-          "questionTr": "Metne göre bilginin hızlı yayılması neyi garanti etmez?",
-          "options": [
-            "Doğruluğunu",
-            "Çok kişi tarafından görülmesini",
-            "Kolayca paylaşılmasını"
-          ],
-          "correctIndex": 0,
-          "explanationTr": "Metin yayılma hızının doğruluk anlamına gelmediğini belirtir."
-        },
-        {
-          "questionTr": "Bir bilimsel iddiayı incelerken hangisine bakılmalıdır?",
-          "options": [
-            "Sadece başlığın uzunluğuna",
-            "Kaynağa ve veri toplama yöntemine",
-            "Yalnızca beğeni sayısına"
-          ],
-          "correctIndex": 1,
-          "explanationTr": "Kaynak, yayın tarihi ve veri toplama yöntemi kontrol edilmelidir."
-        },
-        {
-          "questionTr": "Bağımsız araştırmaları incelemenin amacı nedir?",
-          "options": [
-            "Sonuçları sorgulamadan kabul etmek",
-            "Metinleri kısaltmak",
-            "Sonuçları daha iyi değerlendirmek"
-          ],
-          "correctIndex": 2,
-          "explanationTr": "Farklı çalışmalar daha sağlam bir değerlendirmeye katkı sağlar."
-        }
-      ]
-    },
-    {
-      "id": "demo_economy_006",
-      "titleAr": "الْمَشْرُوعَاتُ الصَّغِيرَةُ وَالتَّنْمِيَةُ الْمَحَلِّيَّةُ",
-      "titleTr": "Küçük İşletmeler ve Yerel Kalkınma",
-      "summaryTr": "Yerel girişimlerin fırsatları ve karşılaştıkları güçlükleri ele alan örnek metin.",
-      "category": "Ekonomi",
-      "level": "C1",
-      "publishedAt": "2026-10-23",
-      "textAr": "تُسْهِمُ الْمَشْرُوعَاتُ الصَّغِيرَةُ فِي تَنْشِيطِ الِاقْتِصَادِ الْمَحَلِّيِّ مِنْ خِلَالِ تَوْفِيرِ فُرَصِ عَمَلٍ وَتَقْدِيمِ خِدْمَاتٍ تَلْبِي احْتِيَاجَاتِ السُّكَّانِ. وَرَغْمَ مَرُونَتِهَا وَقُدْرَتِهَا عَلَى التَّكَيُّفِ مَعَ تَغَيُّرِ الطَّلَبِ، فَإِنَّهَا قَدْ تُوَاجِهُ صُعُوبَاتٍ فِي الْحُصُولِ عَلَى التَّمْوِيلِ وَالْوُصُولِ إِلَى الْأَسْوَاقِ. وَلِذَلِكَ لَا يَقْتَصِرُ دَعْمُهَا عَلَى الْقُرُوضِ، بَلْ يَشْمَلُ التَّدْرِيبَ الْإِدَارِيَّ وَتَطْوِيرَ الْمَهَارَاتِ الرَّقْمِيَّةِ. وَمَعَ ذَلِكَ، يَنْبَغِي تَقْيِيمُ أَثَرِ بَرَامِجِ الدَّعْمِ بِاسْتِخْدَامِ مُؤَشِّرَاتٍ وَاضِحَةٍ، كَاسْتِمْرَارِ الْأَعْمَالِ وَجَوْدَةِ فُرَصِ التَّوْظِيفِ، حَتَّى لَا يَكُونَ النَّجَاحُ مُجَرَّدَ ارْتِفَاعٍ مُؤَقَّتٍ فِي عَدَدِ الْمَشْرُوعَاتِ.",
-      "translationTr": "Küçük işletmeler istihdam olanağı sağlayarak ve halkın ihtiyaçlarına uygun hizmetler sunarak yerel ekonomiyi canlandırır. Esnek olmalarına ve talep değişikliklerine uyum sağlayabilmelerine rağmen finansmana erişim ve pazarlara ulaşma konusunda zorluk yaşayabilirler. Bu yüzden onları desteklemek yalnızca kredi vermekle sınırlı olmamalı; yönetim eğitimi ve dijital beceri gelişimini de kapsamalıdır. Bununla birlikte destek programlarının etkisi işletmelerin devamlılığı ve istihdam olanaklarının niteliği gibi açık göstergelerle değerlendirilmelidir; başarı yalnızca işletme sayısındaki geçici artıştan ibaret olmamalıdır.",
-      "sourceName": "Örnek eğitim metni",
-      "sourceUrl": null,
-      "imageUrl": null,
-      "isSample": true,
-      "vocabulary": [
-        {
-          "arabic": "تَنْشِيط",
-          "turkish": "Canlandırma",
-          "root": "ن ش ط",
-          "wordType": "Mastar"
-        },
-        {
-          "arabic": "مَرُونَة",
-          "turkish": "Esneklik",
-          "root": "م ر ن",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "التَّكَيُّف",
-          "turkish": "Uyum sağlama",
-          "root": "ك ي ف",
-          "wordType": "Mastar"
-        },
-        {
-          "arabic": "التَّمْوِيل",
-          "turkish": "Finansman",
-          "root": "م و ل",
-          "wordType": "Mastar"
-        },
-        {
-          "arabic": "مُؤَشِّرَات",
-          "turkish": "Göstergeler",
-          "root": "أ ش ر",
-          "wordType": "Çoğul"
-        },
-        {
-          "arabic": "الِاسْتِمْرَار",
-          "turkish": "Süreklilik",
-          "root": "م ر ر",
-          "wordType": "Mastar"
-        }
-      ],
-      "questions": [
-        {
-          "questionTr": "Küçük işletmeler hangi yönüyle ekonomiye katkı sağlar?",
-          "options": [
-            "İstihdam oluşturma",
-            "Pazarları kapatma",
-            "Tüm ithalatı yasaklama"
-          ],
-          "correctIndex": 0,
-          "explanationTr": "İlk cümle istihdam ve yerel ihtiyaçlara uygun hizmetleri belirtir."
-        },
-        {
-          "questionTr": "Metne göre destek programları neyi de kapsamalıdır?",
-          "options": [
-            "Yalnızca kredileri",
-            "Yönetim eğitimi ve dijital becerileri",
-            "Sadece reklam harcamalarını"
-          ],
-          "correctIndex": 1,
-          "explanationTr": "Üçüncü cümle finansmanın ötesinde eğitim ve becerileri vurgular."
-        },
-        {
-          "questionTr": "Bir destek programının başarısı nasıl değerlendirilmelidir?",
-          "options": [
-            "Yalnızca yeni şirket sayısıyla",
-            "Sadece ilk ay geliriyle",
-            "Süreklilik ve iş kalitesi gibi göstergelerle"
-          ],
-          "correctIndex": 2,
-          "explanationTr": "Son cümlede açık göstergeler kullanılması gerektiği anlatılır."
         }
       ]
     }
