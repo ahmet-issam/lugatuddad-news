@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T08:00:53.798Z",
+  "updatedAt": "2026-10-24T08:02:21.262Z",
   "news": [
     {
       "id": "who_blood_donation_20261023",
@@ -357,6 +357,90 @@
       ]
     },
     {
+      "id": "unep_emissions_gap_20261021",
+      "titleAr": "تَقْرِيرٌ يُطَالِبُ بِخَفْضِ الِانْبِعَاثَاتِ لِلْحَدِّ مِنَ الِاحْتِرَارِ",
+      "titleTr": "BM, Küresel Isınmayı Sınırlamak İçin Emisyon Azaltımı Çağrısı Yaptı",
+      "summaryTr": "UNEP'in 2026 raporu, 1,5°C eşiğinin aşılma riskine karşı hızlı emisyon azaltımını öneriyor.",
+      "category": "Çevre",
+      "level": "C1",
+      "publishedAt": "2026-10-21",
+      "textAr": "حَذَّرَ بَرْنَامَجُ الْأُمَمِ الْمُتَّحِدَةِ لِلْبِيئَةِ مِنْ أَنَّ مُتَوَسِّطَ حَرَارَةِ الْأَرْضِ قَدْ يَتَجَاوَزُ حَدَّ دَرَجَةٍ وَنِصْفٍ مِئَوِيَّةٍ فَوْقَ مُسْتَوَيَاتِ مَا قَبْلَ الثَّوْرَةِ الصِّنَاعِيَّةِ. وَأَوْضَحَ تَقْرِيرُ عَامِ ٢٠٢٦ أَنَّ تَخْفِيضَ الِانْبِعَاثَاتِ بِسُرْعَةٍ قَدْ يُقَلِّصُ مُدَّةَ تَجَاوُزِ هَذَا الْحَدِّ وَحَجْمَهُ. وَيَعْرِضُ أَحَدُ الْمَسَارَاتِ خَفْضَ الِانْبِعَاثَاتِ بِنِسْبَةِ ثَمَانِيَةَ عَشَرَ فِي الْمِئَةِ بِحُلُولِ نِهَايَةِ الْعَقْدِ، وَخَمْسَةٍ وَأَرْبَعِينَ فِي الْمِئَةِ بِحُلُولِ ٢٠٣٥، قِيَاسًا بِعَامِ ٢٠٢٥. وَلَا تَعْنِي هَذِهِ الْأَرْقَامُ أَنَّ النَّتِيجَةَ مَضْمُونَةٌ، بَلْ تُمَثِّلُ حَجْمَ الْجُهْدِ الْمَطْلُوبِ فِي أَحَدِ السِّينَارْيُوهَاتِ.",
+      "translationTr": "BM Çevre Programı, Dünya'nın ortalama sıcaklığının sanayi öncesine göre 1,5°C artış sınırını aşabileceği uyarısında bulundu. 2026 raporuna göre emisyonların hızla azaltılması, bu eşiğin ne kadar ve ne süreyle aşılacağını sınırlayabilir. Rapordaki senaryolardan biri, emisyonların 2025 düzeyine kıyasla on yılın sonunda yüzde 18 ve 2035'e kadar yüzde 45 azaltılmasını öngörüyor. Bu rakamlar kesin gerçekleşecek sonuçlar değil; senaryoda gerekli görülen çabanın büyüklüğünü gösteriyor.",
+      "sourceName": "UNEP – eğitim uyarlaması",
+      "sourceUrl": "https://www.un.org/en/node/249341",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "الِانْبِعَاثَات",
+          "turkish": "Emisyonlar",
+          "root": "ب ع ث",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الِاحْتِرَار",
+          "turkish": "Isınma",
+          "root": "ح ر ر",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "تَخْفِيض",
+          "turkish": "Azaltma",
+          "root": "خ ف ض",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "مُتَوَسِّط",
+          "turkish": "Ortalama",
+          "root": "و س ط",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "السِّينَارْيُوهَات",
+          "turkish": "Senaryolar",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "مَضْمُون",
+          "turkish": "Garantili",
+          "root": "ض م ن",
+          "wordType": "Sıfat"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Raporda hangi sıcaklık eşiği vurgulanıyor?",
+          "options": [
+            "1,5°C",
+            "3,5°C",
+            "5,5°C"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "“دَرَجَةٍ وَنِصْفٍ مِئَوِيَّةٍ” 1,5°C demektir."
+        },
+        {
+          "questionTr": "2035 yılı için senaryoda kaçlık emisyon azaltımı belirtiliyor?",
+          "options": [
+            "%18",
+            "%45",
+            "%80"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“خَمْسَةٍ وَأَرْبَعِينَ فِي الْمِئَةِ” %45 oranıdır."
+        },
+        {
+          "questionTr": "Metin yüzdeler hakkında hangi uyarıyı yapıyor?",
+          "options": [
+            "Geçmiş sonuçlar kesinleşmiştir",
+            "Hiçbir azaltım gerekmiyor",
+            "Bunlar kesin sonuç değil, bir senaryonun gerektirdiği çabayı gösteriyor"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "Son cümle sayıların garanti değil, senaryodaki gereklilik olduğunu açıklar."
+        }
+      ]
+    },
+    {
       "id": "itu_connectivity_20261019",
       "titleAr": "مِلْيَارَاتُ النَّاسِ لَا يَسْتَخْدِمُونَ الْإِنْتَرْنِتْ",
       "titleTr": "ITU: Milyarlarca Kişi Hâlâ İnternet Kullanmıyor",
@@ -690,6 +774,91 @@
       ]
     },
     {
+      "id": "unep_ocean_nairobi_cop12_20261009",
+      "titleAr": "دُوَلٌ تَتَّفِقُ عَلَى خُطُوَاتٍ لِحِمَايَةِ الْمُحِيطِ الْهِنْدِيِّ",
+      "titleTr": "Hint Okyanusu'nu Koruma Toplantısında 15 Karar Alındı",
+      "summaryTr": "Nairobi Sözleşmesi COP12 toplantısı Batı Hint Okyanusu'nun korunmasına ilişkin 15 kararla sona erdi.",
+      "category": "Çevre",
+      "level": "A2",
+      "publishedAt": "2026-10-09",
+      "textAr": "اجْتَمَعَ مُمَثِّلُونَ عَنْ دُوَلٍ مُخْتَلِفَةٍ فِي مَدِينَةِ دَارِ السَّلَامِ بِتَنْزَانِيَا لِحِمَايَةِ غَرْبِ الْمُحِيطِ الْهِنْدِيِّ. وَانْتَهَى اجْتِمَاعُ اتِّفَاقِيَّةِ نَيْرُوبِي بِخَمْسَةَ عَشَرَ قَرَارًا. وَتَشْمَلُ الْقَرَارَاتُ حِمَايَةَ الْحَيَوَانَاتِ وَالنَّبَاتَاتِ الْبَحْرِيَّةِ، وَالْحَدَّ مِنَ التَّلَوُّثِ الْبِلَاسْتِيكِيِّ، وَدَعْمَ الِاقْتِصَادِ الْأَزْرَقِ. وَيَرَى الْمُشَارِكُونَ أَنَّ حِمَايَةَ الْبَحْرِ تُسَاعِدُ أَيْضًا عَلَى حِمَايَةِ عَمَلِ الصَّيَّادِينَ وَسُكَّانِ السَّوَاحِلِ. وَتَعَاوُنُ الدُّوَلِ مُهِمٌّ لِأَنَّ الْمِيَاهَ وَالْكَائِنَاتِ الْبَحْرِيَّةَ لَا تَقِفُ عِنْدَ الْحُدُودِ.",
+      "translationTr": "Farklı ülkelerin temsilcileri, Batı Hint Okyanusu'nu korumak amacıyla Tanzanya'nın Darüsselam kentinde toplandı. Nairobi Sözleşmesi toplantısı 15 kararla sonuçlandı. Kararlar deniz canlılarını ve bitkilerini korumayı, plastik kirliliğini azaltmayı ve mavi ekonomiyi desteklemeyi kapsıyor. Katılımcılar denizlerin korunmasının balıkçıların ve kıyıda yaşayanların geçim kaynaklarına da yarar sağlayacağını düşünüyor. Deniz ekosistemleri ülke sınırlarında durmadığından uluslararası iş birliği önem taşıyor.",
+      "sourceName": "UNEP Nairobi Convention – eğitim uyarlaması",
+      "sourceUrl": "https://www.unep.org/en/news-and-stories/press-release/nairobi-convention-marks-40-years-cop12-charts-future-ocean",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "الْمُحِيط",
+          "turkish": "Okyanus",
+          "root": "ح و ط",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "قَرَارَات",
+          "turkish": "Kararlar",
+          "root": "ق ر ر",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "التَّلَوُّث",
+          "turkish": "Kirlilik",
+          "root": "ل و ث",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْبَحْرِيَّة",
+          "turkish": "Denizle ilgili",
+          "root": "ب ح ر",
+          "wordType": "Sıfat"
+        },
+        {
+          "arabic": "الصَّيَّادُون",
+          "turkish": "Balıkçılar",
+          "root": "ص ي د",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "السَّوَاحِل",
+          "turkish": "Kıyılar",
+          "root": "س ح ل",
+          "wordType": "Çoğul"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Toplantı hangi şehirde yapıldı?",
+          "options": [
+            "Nairobi",
+            "Darüsselam",
+            "Londra"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“دَارِ السَّلَامِ بِتَنْزَانِيَا” ifadesi yerini belirtir."
+        },
+        {
+          "questionTr": "Toplantının sonunda kaç karar alındı?",
+          "options": [
+            "15",
+            "50",
+            "5"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "“بِخَمْسَةَ عَشَرَ قَرَارًا” 15 karar demektir."
+        },
+        {
+          "questionTr": "Kararlardan biri hangisidir?",
+          "options": [
+            "Deniz balıkçılığını tümüyle yasaklamak",
+            "Tüm limanları kapatmak",
+            "Plastik kirliliğini azaltmak"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "Metinde plastik kirliliğinin azaltılması açıkça belirtiliyor."
+        }
+      ]
+    },
+    {
       "id": "nasa_webb_ngc7129_20261006",
       "titleAr": "تِلِسْكُوبُ وَيْبْ يَكْشِفُ نُجُومًا صَغِيرَةً خَلْفَ سُحُبِ الْغُبَارِ",
       "titleTr": "Webb Teleskobu, Toz Bulutlarının Ardındaki Genç Yıldızları Görüntüledi",
@@ -769,6 +938,89 @@
           ],
           "correctIndex": 2,
           "explanationTr": "“الْأَشِعَّةِ تَحْتَ الْحَمْرَاءِ” kızılötesi ışığı anlatır."
+        }
+      ]
+    },
+    {
+      "id": "unep_green_wall_20261006",
+      "titleAr": "تَمْوِيلٌ جَدِيدٌ لِإِصْلَاحِ الْأَرَاضِي الْمُتَدَهْوِرَةِ فِي إِفْرِيقِيَا",
+      "titleTr": "Afrika'nın Büyük Yeşil Duvarına 78 Milyon Dolarlık Destek",
+      "summaryTr": "UNEP'in duyurduğu girişim dokuz ülkede bozulmuş toprakları iyileştirmeyi ve geçim kaynaklarını güçlendirmeyi amaçlıyor.",
+      "category": "Çevre",
+      "level": "B1",
+      "publishedAt": "2026-10-06",
+      "textAr": "أَعْلَنَ بَرْنَامَجُ الْأُمَمِ الْمُتَّحِدَةِ لِلْبِيئَةِ عَنْ مُبَادَرَةٍ جَدِيدَةٍ بِقِيمَةِ ثَمَانِيَةٍ وَسَبْعِينَ مِلْيُونَ دُولَارٍ فِي دُوَلِ السَّاحِلِ الْإِفْرِيقِيِّ. وَتَهْدِفُ الْمُبَادَرَةُ إِلَى إِصْلَاحِ مِئَتَيْنِ وَسَبْعِينَ أَلْفَ هِكْتَارٍ مِنَ الْأَرَاضِي الْمُتَدَهْوِرَةِ فِي تِسْعِ دُوَلٍ. وَيُتَوَقَّعُ أَنْ تُسَاعِدَ الْمَشْرُوعَاتُ عَلَى تَحْسِينِ سُبُلِ الْعَيْشِ لِخَمْسَةِ مَلَايِينَ شَخْصٍ. وَتَرْتَبِطُ الْمُبَادَرَةُ بِمَشْرُوعِ «السُّورِ الْأَخْضَرِ الْعَظِيمِ» الَّذِي يُكَافِحُ تَدَهْوُرَ الْأَرَاضِي. وَيَجْمَعُ الْبَرْنَامَجُ بَيْنَ حِمَايَةِ الطَّبِيعَةِ وَدَعْمِ الْمُجْتَمَعَاتِ الْمَحَلِّيَّةِ.",
+      "translationTr": "BM Çevre Programı, Afrika'nın Sahel bölgesinde 78 milyon dolarlık yeni bir girişim duyurdu. Girişim, dokuz ülkede 270 bin hektar bozulmuş araziyi restore etmeyi amaçlıyor. Projelerin beş milyon insanın geçim olanaklarını iyileştirmeye yardımcı olması bekleniyor. Bu çalışma, toprak bozulmasıyla mücadele eden Büyük Yeşil Duvar girişimiyle bağlantılı. Program, doğayı korumayı yerel topluluklara destek vermeyle birleştiriyor.",
+      "sourceName": "UNEP – eğitim uyarlaması",
+      "sourceUrl": "https://www.unep.org/news-and-stories/press-release/new-us78-million-initiative-restore-land-improve-livelihoods-across",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "تَمْوِيل",
+          "turkish": "Finansman",
+          "root": "م و ل",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الْأَرَاضِي",
+          "turkish": "Topraklar / araziler",
+          "root": "أ ر ض",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْمُتَدَهْوِرَة",
+          "turkish": "Bozulmuş",
+          "root": "د ه و ر",
+          "wordType": "Sıfat"
+        },
+        {
+          "arabic": "إِصْلَاح",
+          "turkish": "Onarma / iyileştirme",
+          "root": "ص ل ح",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "سُبُلُ الْعَيْش",
+          "turkish": "Geçim kaynakları",
+          "wordType": "İsim tamlaması"
+        },
+        {
+          "arabic": "السَّاحِل",
+          "turkish": "Sahel bölgesi / kıyı",
+          "wordType": "İsim"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Girişimin bütçesi ne kadardır?",
+          "options": [
+            "78 milyon dolar",
+            "7,8 milyar dolar",
+            "780 bin dolar"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "İlk cümlede 78 milyon dolar belirtilir."
+        },
+        {
+          "questionTr": "Kaç ülkede uygulanması amaçlanıyor?",
+          "options": [
+            "Üç ülkede",
+            "Dokuz ülkede",
+            "Yirmi ülkede"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“تِسْعِ دُوَلٍ” dokuz ülke demektir."
+        },
+        {
+          "questionTr": "Programın diğer hedefi hangisidir?",
+          "options": [
+            "Çöllerde yeni denizler oluşturmak",
+            "Tüm tarımı durdurmak",
+            "İnsanların geçim olanaklarını iyileştirmek"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“تَحْسِينِ سُبُلِ الْعَيْشِ” geçim kaynaklarını iyileştirmek anlamındadır."
         }
       ]
     },
