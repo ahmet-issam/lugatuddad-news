@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T07:30:12.091Z",
+  "updatedAt": "2026-10-24T07:53:41.193Z",
   "news": [
     {
       "id": "who_blood_donation_20261023",
@@ -84,91 +84,6 @@
           ],
           "correctIndex": 2,
           "explanationTr": "“إِنْقَاذِ حَيَاةِ الْمَرْضَى” ifadesi hastaların hayatını kurtarmayı anlatır."
-        }
-      ]
-    },
-    {
-      "id": "who_extreme_heat_20261021",
-      "titleAr": "خُطَّةٌ دَوْلِيَّةٌ لِحِمَايَةِ الْأُمَّهَاتِ وَالْأَطْفَالِ مِنَ الْحَرَارَةِ الشَّدِيدَةِ",
-      "titleTr": "Aşırı Sıcaklarda Anne ve Çocuk Sağlığını Koruma Planı",
-      "summaryTr": "DSÖ ve ortakları aşırı sıcağın hamileler, yenidoğanlar ve çocuklar üzerindeki etkilerini takip etmek için yeni göstergeler duyurdu.",
-      "category": "Sağlık",
-      "level": "B2",
-      "publishedAt": "2026-10-21",
-      "textAr": "أَعْلَنَتْ مُنَظَّمَةُ الصِّحَّةِ الْعَالَمِيَّةُ، مَعَ شُرَكَاءَ دَوْلِيِّينَ، عَنْ إِطَارٍ جَدِيدٍ لِرَصْدِ أَثَرِ الْحَرَارَةِ الشَّدِيدَةِ عَلَى الصِّحَّةِ. وَيُرَكِّزُ الْإِطَارُ عَلَى النِّسَاءِ الْحَوَامِلِ وَحَدِيثِي الْوِلَادَةِ وَالْأَطْفَالِ. وَيَضَعُ مَجْمُوعَةً مِنَ الْمُؤَشِّرَاتِ الَّتِي تَسْتَخْدِمُهَا الدُّوَلُ لِفَهْمِ الْمَخَاطِرِ وَالِاسْتِعْدَادِ لَهَا. وَمِنْ هَذِهِ الْمُؤَشِّرَاتِ الْوِلَادَةُ الْمُبَكِّرَةُ وَصِحَّةُ الْأَطْفَالِ وَزِيَارَاتُ الْمَرَاكِزِ الصِّحِّيَّةِ. وَالْهَدَفُ لَيْسَ جَمْعَ الْبَيَانَاتِ فَقَطْ، بَلْ مُسَاعَدَةَ السُّلُطَاتِ عَلَى اتِّخَاذِ إِجْرَاءَاتٍ وِقَائِيَّةٍ فِي الْوَقْتِ الْمُنَاسِبِ.",
-      "translationTr": "Dünya Sağlık Örgütü ve uluslararası ortakları, aşırı sıcaklığın sağlık üzerindeki etkilerini izlemek için yeni bir çerçeve açıkladı. Çerçeve hamile kadınlara, yenidoğanlara ve çocuklara odaklanıyor. Ülkelerin riskleri anlamak ve bunlara hazırlanmak için kullanabileceği göstergeler belirleniyor. Bu göstergeler arasında erken doğum, çocuk sağlığı ve sağlık kuruluşlarına başvurular bulunuyor. Amaç yalnızca veri toplamak değil, yetkililerin zamanında koruyucu önlemler almasını da desteklemek.",
-      "sourceName": "Dünya Sağlık Örgütü – eğitim uyarlaması",
-      "sourceUrl": "https://www.who.int/kiribati/news/detail-global/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children",
-      "imageUrl": null,
-      "isSample": false,
-      "vocabulary": [
-        {
-          "arabic": "إِطَار",
-          "turkish": "Çerçeve",
-          "root": "أ ط ر",
-          "wordType": "İsim"
-        },
-        {
-          "arabic": "رَصْد",
-          "turkish": "İzleme",
-          "root": "ر ص د",
-          "wordType": "Mastar"
-        },
-        {
-          "arabic": "الْحَوَامِل",
-          "turkish": "Hamile kadınlar",
-          "root": "ح م ل",
-          "wordType": "Çoğul"
-        },
-        {
-          "arabic": "الْمُؤَشِّرَات",
-          "turkish": "Göstergeler",
-          "root": "أ ش ر",
-          "wordType": "Çoğul"
-        },
-        {
-          "arabic": "الْمَخَاطِر",
-          "turkish": "Riskler",
-          "root": "خ ط ر",
-          "wordType": "Çoğul"
-        },
-        {
-          "arabic": "وِقَائِيَّة",
-          "turkish": "Koruyucu",
-          "root": "و ق ي",
-          "wordType": "Sıfat"
-        }
-      ],
-      "questions": [
-        {
-          "questionTr": "Yeni çerçevenin temel amacı nedir?",
-          "options": [
-            "Aşırı sıcağın sağlık etkilerini izlemek",
-            "Yeni yollar inşa etmek",
-            "Turizm gelirlerini ölçmek"
-          ],
-          "correctIndex": 0,
-          "explanationTr": "“لِرَصْدِ أَثَرِ الْحَرَارَةِ الشَّدِيدَةِ عَلَى الصِّحَّةِ” ifadesi aşırı sıcağın sağlık etkilerini izlemeyi anlatır."
-        },
-        {
-          "questionTr": "Çerçeve hangi gruplara odaklanıyor?",
-          "options": [
-            "Yalnızca sporculara",
-            "Hamileler, yenidoğanlar ve çocuklara",
-            "Yalnızca üniversite öğrencilerine"
-          ],
-          "correctIndex": 1,
-          "explanationTr": "Bu üç grup metinde açıkça sayılmıştır."
-        },
-        {
-          "questionTr": "Veri toplamanın ötesinde ne hedefleniyor?",
-          "options": [
-            "Okulları kapatmak",
-            "Sağlık hizmetlerini azaltmak",
-            "Koruyucu önlemleri zamanında almak"
-          ],
-          "correctIndex": 2,
-          "explanationTr": "Son cümle zamanında “إِجْرَاءَاتٍ وِقَائِيَّةٍ” alınmasını vurgular."
         }
       ]
     },
@@ -274,6 +189,328 @@
           ],
           "correctIndex": 0,
           "explanationTr": "Metinde yer “بِمَدِينَةِ هَانْتْسْفِيلَ” şeklinde belirtilmiştir."
+        }
+      ]
+    },
+    {
+      "id": "itu_ai_20261022",
+      "titleAr": "بَرْنَامَجٌ لِتَعْزِيزِ قُدْرَاتِ الذَّكَاءِ الِاصْطِنَاعِيِّ",
+      "titleTr": "ITU, Yapay Zekâ Kapasitesini Geliştirme Programını Tanıttı",
+      "summaryTr": "ITU, Yapay Zekâ Kapasitesini Geliştirme Programını Tanıttı. Kaynaktan uyarlanmış Arapça okuma ve Türkçe açıklama.",
+      "category": "Teknoloji",
+      "level": "B1",
+      "publishedAt": "2026-10-22",
+      "textAr": "أَعْلَنَ الِاتِّحَادُ الدَّوْلِيُّ لِلِاتِّصَالَاتِ عَنْ مُبَادَرَةِ «جِينِي» الَّتِي تَهْدِفُ إِلَى مُسَاعَدَةِ الدُّوَلِ عَلَى اسْتِخْدَامِ الذَّكَاءِ الِاصْطِنَاعِيِّ. وَتُوَاجِهُ بَعْضُ الْمُؤَسَّسَاتِ صُعُوبَاتٍ بِسَبَبِ نَقْصِ الْمَوَارِدِ وَالْخُبَرَاءِ وَالْبِنْيَةِ التَّحْتِيَّةِ. وَيُشَجِّعُ الْبَرْنَامَجُ عَلَى تَطْوِيرِ الْقُدُرَاتِ الْمَحَلِّيَّةِ لِتَحْقِيقِ فَوَائِدَ اجْتِمَاعِيَّةٍ وَاقْتِصَادِيَّةٍ.",
+      "translationTr": "Uluslararası Telekomünikasyon Birliği, ülkelerin yapay zekâyı kullanmasına yardımcı olmayı amaçlayan GENIE girişimini duyurdu. Bazı kurumlar kaynak, uzman ve altyapı eksikliği yaşıyor. Program, sosyal ve ekonomik faydalar sağlamak için yerel kapasitenin geliştirilmesini destekliyor.",
+      "sourceName": "ITU – eğitim uyarlaması",
+      "sourceUrl": "https://www.itu.int/hub/2026/10/genie-ai-empowering-countries-to-shape-their-ai-future/",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "مُبَادَرَة",
+          "turkish": "Girişim",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمَوَارِد",
+          "turkish": "Kaynaklar",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمَهَارَات",
+          "turkish": "Beceriler",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "مُؤْتَمَر",
+          "turkish": "Konferans",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمُشَارِكُون",
+          "turkish": "Katılımcılar",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمُؤَسَّسَات",
+          "turkish": "Kurumlar",
+          "wordType": "İsim"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Bu metnin ana konusu nedir?",
+          "options": [
+            "Dijital teknolojiler",
+            "Tarım ürünleri",
+            "Deniz taşımacılığı"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metnin başlığında ana konu açıklanmaktadır."
+        },
+        {
+          "questionTr": "Metinde hangi tür kuruluşlardan söz edilmektedir?",
+          "options": [
+            "Üniversiteler ve kurumlar",
+            "Sadece oteller",
+            "Yalnızca spor kulüpleri"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metinde ilgili kurumların ve katılımcıların çalışmaları açıklanır."
+        },
+        {
+          "questionTr": "Metnin temel amacı nedir?",
+          "options": [
+            "İş birliği ve kapasite geliştirme",
+            "Bütün interneti kapatma",
+            "Okullarda eğitimi durdurma"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metin iş birliği ve kapasite geliştirme amacını vurgular."
+        }
+      ]
+    },
+    {
+      "id": "who_extreme_heat_20261021",
+      "titleAr": "خُطَّةٌ دَوْلِيَّةٌ لِحِمَايَةِ الْأُمَّهَاتِ وَالْأَطْفَالِ مِنَ الْحَرَارَةِ الشَّدِيدَةِ",
+      "titleTr": "Aşırı Sıcaklarda Anne ve Çocuk Sağlığını Koruma Planı",
+      "summaryTr": "DSÖ ve ortakları aşırı sıcağın hamileler, yenidoğanlar ve çocuklar üzerindeki etkilerini takip etmek için yeni göstergeler duyurdu.",
+      "category": "Sağlık",
+      "level": "B2",
+      "publishedAt": "2026-10-21",
+      "textAr": "أَعْلَنَتْ مُنَظَّمَةُ الصِّحَّةِ الْعَالَمِيَّةُ، مَعَ شُرَكَاءَ دَوْلِيِّينَ، عَنْ إِطَارٍ جَدِيدٍ لِرَصْدِ أَثَرِ الْحَرَارَةِ الشَّدِيدَةِ عَلَى الصِّحَّةِ. وَيُرَكِّزُ الْإِطَارُ عَلَى النِّسَاءِ الْحَوَامِلِ وَحَدِيثِي الْوِلَادَةِ وَالْأَطْفَالِ. وَيَضَعُ مَجْمُوعَةً مِنَ الْمُؤَشِّرَاتِ الَّتِي تَسْتَخْدِمُهَا الدُّوَلُ لِفَهْمِ الْمَخَاطِرِ وَالِاسْتِعْدَادِ لَهَا. وَمِنْ هَذِهِ الْمُؤَشِّرَاتِ الْوِلَادَةُ الْمُبَكِّرَةُ وَصِحَّةُ الْأَطْفَالِ وَزِيَارَاتُ الْمَرَاكِزِ الصِّحِّيَّةِ. وَالْهَدَفُ لَيْسَ جَمْعَ الْبَيَانَاتِ فَقَطْ، بَلْ مُسَاعَدَةَ السُّلُطَاتِ عَلَى اتِّخَاذِ إِجْرَاءَاتٍ وِقَائِيَّةٍ فِي الْوَقْتِ الْمُنَاسِبِ.",
+      "translationTr": "Dünya Sağlık Örgütü ve uluslararası ortakları, aşırı sıcaklığın sağlık üzerindeki etkilerini izlemek için yeni bir çerçeve açıkladı. Çerçeve hamile kadınlara, yenidoğanlara ve çocuklara odaklanıyor. Ülkelerin riskleri anlamak ve bunlara hazırlanmak için kullanabileceği göstergeler belirleniyor. Bu göstergeler arasında erken doğum, çocuk sağlığı ve sağlık kuruluşlarına başvurular bulunuyor. Amaç yalnızca veri toplamak değil, yetkililerin zamanında koruyucu önlemler almasını da desteklemek.",
+      "sourceName": "Dünya Sağlık Örgütü – eğitim uyarlaması",
+      "sourceUrl": "https://www.who.int/kiribati/news/detail-global/21-10-2026-new-global-framework-launched-to-track-increasing-health-risks-of-extreme-heat-for-pregnant-women--newborns-and-children",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "إِطَار",
+          "turkish": "Çerçeve",
+          "root": "أ ط ر",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "رَصْد",
+          "turkish": "İzleme",
+          "root": "ر ص د",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الْحَوَامِل",
+          "turkish": "Hamile kadınlar",
+          "root": "ح م ل",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْمُؤَشِّرَات",
+          "turkish": "Göstergeler",
+          "root": "أ ش ر",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْمَخَاطِر",
+          "turkish": "Riskler",
+          "root": "خ ط ر",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "وِقَائِيَّة",
+          "turkish": "Koruyucu",
+          "root": "و ق ي",
+          "wordType": "Sıfat"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Yeni çerçevenin temel amacı nedir?",
+          "options": [
+            "Aşırı sıcağın sağlık etkilerini izlemek",
+            "Yeni yollar inşa etmek",
+            "Turizm gelirlerini ölçmek"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "“لِرَصْدِ أَثَرِ الْحَرَارَةِ الشَّدِيدَةِ عَلَى الصِّحَّةِ” ifadesi aşırı sıcağın sağlık etkilerini izlemeyi anlatır."
+        },
+        {
+          "questionTr": "Çerçeve hangi gruplara odaklanıyor?",
+          "options": [
+            "Yalnızca sporculara",
+            "Hamileler, yenidoğanlar ve çocuklara",
+            "Yalnızca üniversite öğrencilerine"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "Bu üç grup metinde açıkça sayılmıştır."
+        },
+        {
+          "questionTr": "Veri toplamanın ötesinde ne hedefleniyor?",
+          "options": [
+            "Okulları kapatmak",
+            "Sağlık hizmetlerini azaltmak",
+            "Koruyucu önlemleri zamanında almak"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "Son cümle zamanında “إِجْرَاءَاتٍ وِقَائِيَّةٍ” alınmasını vurgular."
+        }
+      ]
+    },
+    {
+      "id": "itu_connectivity_20261019",
+      "titleAr": "مِلْيَارَاتُ النَّاسِ لَا يَسْتَخْدِمُونَ الْإِنْتَرْنِتْ",
+      "titleTr": "ITU: Milyarlarca Kişi Hâlâ İnternet Kullanmıyor",
+      "summaryTr": "ITU: Milyarlarca Kişi Hâlâ İnternet Kullanmıyor. Kaynaktan uyarlanmış Arapça okuma ve Türkçe açıklama.",
+      "category": "Teknoloji",
+      "level": "A2",
+      "publishedAt": "2026-10-19",
+      "textAr": "قَالَ الِاتِّحَادُ الدَّوْلِيُّ لِلِاتِّصَالَاتِ إِنَّ نَحْوَ مِلْيَارَيْنِ وَمِئَتَيْ مِلْيُونِ شَخْصٍ لَمْ يَسْتَخْدِمُوا الْإِنْتَرْنِتْ فِي عَامِ ٢٠٢٥. وَقَدْ تَكُونُ خِدْمَةُ الْإِنْتَرْنِتْ غَالِيَةً فِي بَعْضِ الْمَنَاطِقِ، وَقَدْ يَحْتَاجُ النَّاسُ إِلَى مَهَارَاتٍ رَقْمِيَّةٍ. وَسَيَنْعَقِدُ مُؤْتَمَرٌ دَوْلِيٌّ فِي الدَّوْحَةِ فِي نُوفَمْبَرَ ٢٠٢٦ لِمُنَاقَشَةِ سُبُلِ تَحْسِينِ الِاتِّصَالِ وَتَوْسِيعِ الْفُرَصِ.",
+      "translationTr": "Uluslararası Telekomünikasyon Birliği, 2025'te yaklaşık 2,2 milyar kişinin internet kullanmadığını bildirdi. Bazı bölgelerde internet hizmeti pahalı ve dijital beceriler yetersiz. Kasım 2026'da Doha'da düzenlenecek uluslararası konferansta erişim olanaklarının geliştirilmesi ele alınacak.",
+      "sourceName": "ITU – eğitim uyarlaması",
+      "sourceUrl": "https://www.itu.int/hub/2026/10/itu-plenipotentiary-together-for-a-connected-digital-future/",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "مُبَادَرَة",
+          "turkish": "Girişim",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمَوَارِد",
+          "turkish": "Kaynaklar",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمَهَارَات",
+          "turkish": "Beceriler",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "مُؤْتَمَر",
+          "turkish": "Konferans",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمُشَارِكُون",
+          "turkish": "Katılımcılar",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمُؤَسَّسَات",
+          "turkish": "Kurumlar",
+          "wordType": "İsim"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Bu metnin ana konusu nedir?",
+          "options": [
+            "Dijital teknolojiler",
+            "Tarım ürünleri",
+            "Deniz taşımacılığı"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metnin başlığında ana konu açıklanmaktadır."
+        },
+        {
+          "questionTr": "Metinde hangi tür kuruluşlardan söz edilmektedir?",
+          "options": [
+            "Üniversiteler ve kurumlar",
+            "Sadece oteller",
+            "Yalnızca spor kulüpleri"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metinde ilgili kurumların ve katılımcıların çalışmaları açıklanır."
+        },
+        {
+          "questionTr": "Metnin temel amacı nedir?",
+          "options": [
+            "İş birliği ve kapasite geliştirme",
+            "Bütün interneti kapatma",
+            "Okullarda eğitimi durdurma"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metin iş birliği ve kapasite geliştirme amacını vurgular."
+        }
+      ]
+    },
+    {
+      "id": "unesco_ai_observatory_20260928",
+      "titleAr": "مَرْصَدٌ إِقْلِيمِيٌّ لِلذَّكَاءِ الِاصْطِنَاعِيِّ فِي التَّعْلِيمِ",
+      "titleTr": "UNESCO'nun Eğitimde Yapay Zekâ Gözlemevi İlk Toplantısını Yaptı",
+      "summaryTr": "UNESCO'nun Eğitimde Yapay Zekâ Gözlemevi İlk Toplantısını Yaptı. Kaynaktan uyarlanmış Arapça okuma ve Türkçe açıklama.",
+      "category": "Eğitim",
+      "level": "B2",
+      "publishedAt": "2026-09-28",
+      "textAr": "عَقَدَ مَرْصَدُ الذَّكَاءِ الِاصْطِنَاعِيِّ فِي التَّعْلِيمِ لِأَمْرِيكَا اللَّاتِينِيَّةِ وَالْكَرِيبِيِّ أَوَّلَ اجْتِمَاعٍ لِمُؤَسَّسَاتِهِ الْمُشَارِكَةِ. وَنَاقَشَ الْمُشَارِكُونَ سِيَاسَاتِ الذَّكَاءِ الِاصْطِنَاعِيِّ وَتَدْرِيبَ الْمُعَلِّمِينَ وَخُطَطَ عَمَلِ عَامِ ٢٠٢٧. وَيَضُمُّ الْمَرْصَدُ جَامِعَاتٍ وَمَرَاكِزَ أَبْحَاثٍ وَمُنَظَّمَاتٍ دَوْلِيَّةً. وَيَهْدِفُ إِلَى تَوْفِيرِ مَعْلُومَاتٍ مُفِيدَةٍ لِصَانِعِي الْقَرَارِ وَتَشْجِيعِ الِاسْتِخْدَامِ الْمَسْؤُولِ لِلتِّقْنِيَةِ.",
+      "translationTr": "Latin Amerika ve Karayipler Eğitimde Yapay Zekâ Gözlemevi, üye kurumlarla ilk toplantısını yaptı. Katılımcılar yapay zekâ politikalarını, öğretmen eğitimini ve 2027 çalışma planlarını görüştü. Gözlemevinde üniversiteler, araştırma merkezleri ve uluslararası kuruluşlar bulunuyor. Amaç karar vericilere bilgi sağlamak ve teknolojinin sorumlu kullanımını desteklemek.",
+      "sourceName": "UNESCO – eğitim uyarlaması",
+      "sourceUrl": "https://www.unesco.org/en/articles/observatory-artificial-intelligence-education-latin-america-and-caribbean-holds-first-meeting-member",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "مُبَادَرَة",
+          "turkish": "Girişim",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمَوَارِد",
+          "turkish": "Kaynaklar",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمَهَارَات",
+          "turkish": "Beceriler",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "مُؤْتَمَر",
+          "turkish": "Konferans",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمُشَارِكُون",
+          "turkish": "Katılımcılar",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمُؤَسَّسَات",
+          "turkish": "Kurumlar",
+          "wordType": "İsim"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Bu metnin ana konusu nedir?",
+          "options": [
+            "Eğitimde yapay zekâ",
+            "Tarım ürünleri",
+            "Deniz taşımacılığı"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metnin başlığında ana konu açıklanmaktadır."
+        },
+        {
+          "questionTr": "Metinde hangi tür kuruluşlardan söz edilmektedir?",
+          "options": [
+            "Üniversiteler ve kurumlar",
+            "Sadece oteller",
+            "Yalnızca spor kulüpleri"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metinde ilgili kurumların ve katılımcıların çalışmaları açıklanır."
+        },
+        {
+          "questionTr": "Metnin temel amacı nedir?",
+          "options": [
+            "İş birliği ve kapasite geliştirme",
+            "Bütün interneti kapatma",
+            "Okullarda eğitimi durdurma"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metin iş birliği ve kapasite geliştirme amacını vurgular."
         }
       ]
     }
