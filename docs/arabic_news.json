@@ -240,34 +240,34 @@
       ],
       "questions": [
         {
-          "questionTr": "Bu metnin ana konusu nedir?",
+          "questionTr": "GENIE girişiminin amacı nedir?",
           "options": [
-            "Dijital teknolojiler",
-            "Tarım ürünleri",
-            "Deniz taşımacılığı"
+            "Ülkelerin yapay zekâdan yararlanmasına yardımcı olmak",
+            "Havaalanları inşa etmek",
+            "Deniz taşımacılığını düzenlemek"
           ],
           "correctIndex": 0,
-          "explanationTr": "Metnin başlığında ana konu açıklanmaktadır."
+          "explanationTr": "“مُسَاعَدَةِ الدُّوَلِ عَلَى اسْتِخْدَامِ الذَّكَاءِ الِاصْطِنَاعِيِّ” ifadesi amacı açıklar."
         },
         {
-          "questionTr": "Metinde hangi tür kuruluşlardan söz edilmektedir?",
+          "questionTr": "Kurumların yaşadığı sorunlardan biri hangisidir?",
           "options": [
-            "Üniversiteler ve kurumlar",
-            "Sadece oteller",
-            "Yalnızca spor kulüpleri"
+            "Fazla sayıda turist",
+            "Uzman ve kaynak eksikliği",
+            "Aşırı yağış"
           ],
-          "correctIndex": 0,
-          "explanationTr": "Metinde ilgili kurumların ve katılımcıların çalışmaları açıklanır."
+          "correctIndex": 1,
+          "explanationTr": "Metinde “نَقْصِ الْمَوَارِدِ وَالْخُبَرَاءِ” ifadesi geçer."
         },
         {
-          "questionTr": "Metnin temel amacı nedir?",
+          "questionTr": "Program hangi kapasiteyi geliştirmeyi hedefliyor?",
           "options": [
-            "İş birliği ve kapasite geliştirme",
-            "Bütün interneti kapatma",
-            "Okullarda eğitimi durdurma"
+            "Sadece spor kapasitesini",
+            "Sadece deniz ulaşımını",
+            "Yerel kapasiteyi"
           ],
-          "correctIndex": 0,
-          "explanationTr": "Metin iş birliği ve kapasite geliştirme amacını vurgular."
+          "correctIndex": 2,
+          "explanationTr": "“تَطْوِيرِ الْقُدُرَاتِ الْمَحَلِّيَّةِ” yerel kapasiteyi geliştirmektir."
         }
       ]
     },
@@ -404,34 +404,34 @@
       ],
       "questions": [
         {
-          "questionTr": "Bu metnin ana konusu nedir?",
+          "questionTr": "2025 yılında yaklaşık kaç kişi internet kullanmıyordu?",
           "options": [
-            "Dijital teknolojiler",
-            "Tarım ürünleri",
-            "Deniz taşımacılığı"
+            "2,2 milyar",
+            "2,2 milyon",
+            "220 bin"
           ],
           "correctIndex": 0,
-          "explanationTr": "Metnin başlığında ana konu açıklanmaktadır."
+          "explanationTr": "“مِلْيَارَيْنِ وَمِئَتَيْ مِلْيُونِ” yaklaşık 2,2 milyardır."
         },
         {
-          "questionTr": "Metinde hangi tür kuruluşlardan söz edilmektedir?",
+          "questionTr": "Uluslararası konferans nerede yapılacak?",
           "options": [
-            "Üniversiteler ve kurumlar",
-            "Sadece oteller",
-            "Yalnızca spor kulüpleri"
+            "Roma'da",
+            "Doha'da",
+            "Kahire'de"
           ],
-          "correctIndex": 0,
-          "explanationTr": "Metinde ilgili kurumların ve katılımcıların çalışmaları açıklanır."
+          "correctIndex": 1,
+          "explanationTr": "Metinde “فِي الدَّوْحَةِ” denmektedir."
         },
         {
-          "questionTr": "Metnin temel amacı nedir?",
+          "questionTr": "Metinde internete erişimi zorlaştıran etken hangisidir?",
           "options": [
-            "İş birliği ve kapasite geliştirme",
-            "Bütün interneti kapatma",
-            "Okullarda eğitimi durdurma"
+            "Sadece mevsimler",
+            "Sadece spor",
+            "Yüksek ücret ve dijital beceri eksikliği"
           ],
-          "correctIndex": 0,
-          "explanationTr": "Metin iş birliği ve kapasite geliştirme amacını vurgular."
+          "correctIndex": 2,
+          "explanationTr": "Metin pahalı hizmet ve dijital beceri eksikliğine değinir."
         }
       ]
     },
@@ -483,34 +483,34 @@
       ],
       "questions": [
         {
-          "questionTr": "Bu metnin ana konusu nedir?",
+          "questionTr": "Gözlemevinin ilk toplantısı hangi bölgede yapıldı?",
           "options": [
-            "Eğitimde yapay zekâ",
-            "Tarım ürünleri",
-            "Deniz taşımacılığı"
+            "Latin Amerika ve Karayipler için",
+            "Sadece Kuzey Avrupa için",
+            "Sadece Doğu Asya için"
           ],
           "correctIndex": 0,
-          "explanationTr": "Metnin başlığında ana konu açıklanmaktadır."
+          "explanationTr": "Metin “أَمْرِيكَا اللَّاتِينِيَّةِ وَالْكَرِيبِيِّ” bölgesini belirtir."
         },
         {
-          "questionTr": "Metinde hangi tür kuruluşlardan söz edilmektedir?",
+          "questionTr": "Katılımcılar hangi yılın çalışma planlarını görüştü?",
           "options": [
-            "Üniversiteler ve kurumlar",
-            "Sadece oteller",
-            "Yalnızca spor kulüpleri"
+            "2025",
+            "2027",
+            "2035"
           ],
-          "correctIndex": 0,
-          "explanationTr": "Metinde ilgili kurumların ve katılımcıların çalışmaları açıklanır."
+          "correctIndex": 1,
+          "explanationTr": "Metinde “خُطَطَ عَمَلِ عَامِ ٢٠٢٧” ifadesi bulunur."
         },
         {
-          "questionTr": "Metnin temel amacı nedir?",
+          "questionTr": "Gözlemevinin amaçlarından biri nedir?",
           "options": [
-            "İş birliği ve kapasite geliştirme",
-            "Bütün interneti kapatma",
-            "Okullarda eğitimi durdurma"
+            "Okulları kapatmak",
+            "Eğitimi yasaklamak",
+            "Yapay zekâyı sorumlu biçimde kullanmayı desteklemek"
           ],
-          "correctIndex": 0,
-          "explanationTr": "Metin iş birliği ve kapasite geliştirme amacını vurgular."
+          "correctIndex": 2,
+          "explanationTr": "Son cümlede “الِاسْتِخْدَامِ الْمَسْؤُولِ لِلتِّقْنِيَةِ” denir."
         }
       ]
     }
