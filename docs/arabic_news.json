@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T08:04:19.319Z",
+  "updatedAt": "2026-10-24T08:05:28.270Z",
   "news": [
     {
       "id": "who_blood_donation_20261023",
@@ -242,28 +242,28 @@
         {
           "questionTr": "GENIE girişiminin amacı nedir?",
           "options": [
+            "Deniz taşımacılığını düzenlemek",
             "Ülkelerin yapay zekâdan yararlanmasına yardımcı olmak",
-            "Havaalanları inşa etmek",
-            "Deniz taşımacılığını düzenlemek"
+            "Havaalanları inşa etmek"
           ],
-          "correctIndex": 0,
+          "correctIndex": 1,
           "explanationTr": "“مُسَاعَدَةِ الدُّوَلِ عَلَى اسْتِخْدَامِ الذَّكَاءِ الِاصْطِنَاعِيِّ” ifadesi amacı açıklar."
         },
         {
           "questionTr": "Kurumların yaşadığı sorunlardan biri hangisidir?",
           "options": [
-            "Fazla sayıda turist",
             "Uzman ve kaynak eksikliği",
-            "Aşırı yağış"
+            "Aşırı yağış",
+            "Fazla sayıda turist"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "explanationTr": "Metinde “نَقْصِ الْمَوَارِدِ وَالْخُبَرَاءِ” ifadesi geçer."
         },
         {
           "questionTr": "Program hangi kapasiteyi geliştirmeyi hedefliyor?",
           "options": [
-            "Sadece spor kapasitesini",
             "Sadece deniz ulaşımını",
+            "Sadece spor kapasitesini",
             "Yerel kapasiteyi"
           ],
           "correctIndex": 2,
@@ -326,9 +326,9 @@
         {
           "questionTr": "Aşı fiyatında yaklaşık ne kadar azalma öngörülüyor?",
           "options": [
-            "%4",
+            "%90",
             "%40",
-            "%90"
+            "%4"
           ],
           "correctIndex": 1,
           "explanationTr": "“أَرْبَعِينَ فِي الْمِئَةِ” %40 anlamına gelir."
@@ -346,11 +346,11 @@
         {
           "questionTr": "Anlaşmanın uygulanması neye bağlı?",
           "options": [
-            "Bütün hastanelerin kapanmasına",
             "Sadece hava koşullarına",
-            "Üretim ve düzenleyici koşulların yerine getirilmesine"
+            "Üretim ve düzenleyici koşulların yerine getirilmesine",
+            "Bütün hastanelerin kapanmasına"
           ],
-          "correctIndex": 2,
+          "correctIndex": 1,
           "explanationTr": "Son cümle üretim ve onay koşullarına dikkat çeker."
         }
       ]
@@ -495,21 +495,21 @@
         {
           "questionTr": "Raporda hangi sıcaklık eşiği vurgulanıyor?",
           "options": [
+            "5,5°C",
             "1,5°C",
-            "3,5°C",
-            "5,5°C"
+            "3,5°C"
           ],
-          "correctIndex": 0,
+          "correctIndex": 1,
           "explanationTr": "“دَرَجَةٍ وَنِصْفٍ مِئَوِيَّةٍ” 1,5°C demektir."
         },
         {
           "questionTr": "2035 yılı için senaryoda kaçlık emisyon azaltımı belirtiliyor?",
           "options": [
-            "%18",
             "%45",
-            "%80"
+            "%80",
+            "%18"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "explanationTr": "“خَمْسَةٍ وَأَرْبَعِينَ فِي الْمِئَةِ” %45 oranıdır."
         },
         {
@@ -574,31 +574,31 @@
         {
           "questionTr": "2025 yılında yaklaşık kaç kişi internet kullanmıyordu?",
           "options": [
-            "2,2 milyar",
             "2,2 milyon",
-            "220 bin"
+            "220 bin",
+            "2,2 milyar"
           ],
-          "correctIndex": 0,
+          "correctIndex": 2,
           "explanationTr": "“مِلْيَارَيْنِ وَمِئَتَيْ مِلْيُونِ” yaklaşık 2,2 milyardır."
         },
         {
           "questionTr": "Uluslararası konferans nerede yapılacak?",
           "options": [
+            "Kahire'de",
             "Roma'da",
-            "Doha'da",
-            "Kahire'de"
+            "Doha'da"
           ],
-          "correctIndex": 1,
+          "correctIndex": 2,
           "explanationTr": "Metinde “فِي الدَّوْحَةِ” denmektedir."
         },
         {
           "questionTr": "Metinde internete erişimi zorlaştıran etken hangisidir?",
           "options": [
-            "Sadece mevsimler",
+            "Yüksek ücret ve dijital beceri eksikliği",
             "Sadece spor",
-            "Yüksek ücret ve dijital beceri eksikliği"
+            "Sadece mevsimler"
           ],
-          "correctIndex": 2,
+          "correctIndex": 0,
           "explanationTr": "Metin pahalı hizmet ve dijital beceri eksikliğine değinir."
         }
       ]
@@ -658,21 +658,21 @@
         {
           "questionTr": "Hangi NASA gözlemevinden söz ediliyor?",
           "options": [
+            "Kepler",
             "Chandra",
-            "Hubble",
-            "Kepler"
+            "Hubble"
           ],
-          "correctIndex": 0,
+          "correctIndex": 1,
           "explanationTr": "İlk cümlede “مَرْصَدُ شَانْدْرَا” yazıyor."
         },
         {
           "questionTr": "Radyo dalgalarının şekli neye benzetilmiş?",
           "options": [
-            "Bir nehre",
             "Bir müzik işaretine",
-            "Bir kitaba"
+            "Bir kitaba",
+            "Bir nehre"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "explanationTr": "“عَلَامَةً مُوسِيقِيَّةً” müzik işaretidir."
         },
         {
@@ -744,8 +744,8 @@
           "questionTr": "IMF'nin 2026 küresel büyüme tahmini kaçtır?",
           "options": [
             "%3,1",
-            "%4,7",
-            "%5,0"
+            "%5,0",
+            "%4,7"
           ],
           "correctIndex": 0,
           "explanationTr": "Metinde 2026 yılı için %3,1 denmektedir."
@@ -753,21 +753,21 @@
         {
           "questionTr": "2027 tahmini kaçtır?",
           "options": [
-            "%2,0",
             "%3,4",
+            "%2,0",
             "%6,2"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "explanationTr": "2027 yılı için %3,4 belirtilir."
         },
         {
           "questionTr": "Büyümeyi olumsuz etkileyebilecek etken nedir?",
           "options": [
-            "Üniversite tatilleri",
+            "Ticaret gerilimleri",
             "Kitap fuarları",
-            "Ticaret gerilimleri"
+            "Üniversite tatilleri"
           ],
-          "correctIndex": 2,
+          "correctIndex": 0,
           "explanationTr": "“التَّوَتُّرَاتِ التِّجَارِيَّةَ” ticaret gerilimleridir."
         }
       ]
@@ -838,9 +838,9 @@
         {
           "questionTr": "UNICEF'e göre yardıma ihtiyaç duyan yaklaşık kaç çocuk var?",
           "options": [
-            "830",
+            "83.000",
             "8.300",
-            "83.000"
+            "830"
           ],
           "correctIndex": 1,
           "explanationTr": "“ثَمَانِيَةَ آلَافٍ وَثَلَاثَمِئَةِ طِفْلٍ” 8.300 çocuktur."
@@ -848,11 +848,11 @@
         {
           "questionTr": "Hasar değerlendirmeleriyle ilgili hangi bilgi doğru?",
           "options": [
+            "Hâlâ devam ediyor",
             "Tamamen sona erdi",
-            "Hiç başlamadı",
-            "Hâlâ devam ediyor"
+            "Hiç başlamadı"
           ],
-          "correctIndex": 2,
+          "correctIndex": 0,
           "explanationTr": "“تَقْيِيمُ الْأَضْرَارِ جَارِيًا” değerlendirmelerin sürdüğünü gösterir."
         }
       ]
@@ -923,9 +923,9 @@
         {
           "questionTr": "Kızların eğitimini engelleyen sorunlardan biri hangisidir?",
           "options": [
-            "İnternetin hızlı olması",
+            "Okul sayısının artması",
             "Erken yaşta evlilik",
-            "Okul sayısının artması"
+            "İnternetin hızlı olması"
           ],
           "correctIndex": 1,
           "explanationTr": "“الزَّوَاجَ الْمُبَكِّرَ” erken evlilik anlamına gelir."
@@ -933,8 +933,8 @@
         {
           "questionTr": "Metnin vurguladığı yaklaşım nedir?",
           "options": [
-            "Sadece sayıları değerlendirmek",
             "Sorunları görmezden gelmek",
+            "Sadece sayıları değerlendirmek",
             "Verilerle birlikte aile ve öğrencileri dinlemek"
           ],
           "correctIndex": 2,
@@ -998,19 +998,19 @@
         {
           "questionTr": "Toplantı hangi şehirde yapıldı?",
           "options": [
-            "Nairobi",
             "Darüsselam",
+            "Nairobi",
             "Londra"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "explanationTr": "“دَارِ السَّلَامِ بِتَنْزَانِيَا” ifadesi yerini belirtir."
         },
         {
           "questionTr": "Toplantının sonunda kaç karar alındı?",
           "options": [
             "15",
-            "50",
-            "5"
+            "5",
+            "50"
           ],
           "correctIndex": 0,
           "explanationTr": "“بِخَمْسَةَ عَشَرَ قَرَارًا” 15 karar demektir."
@@ -1018,11 +1018,11 @@
         {
           "questionTr": "Kararlardan biri hangisidir?",
           "options": [
+            "Plastik kirliliğini azaltmak",
             "Deniz balıkçılığını tümüyle yasaklamak",
-            "Tüm limanları kapatmak",
-            "Plastik kirliliğini azaltmak"
+            "Tüm limanları kapatmak"
           ],
-          "correctIndex": 2,
+          "correctIndex": 0,
           "explanationTr": "Metinde plastik kirliliğinin azaltılması açıkça belirtiliyor."
         }
       ]
@@ -1082,30 +1082,30 @@
           "questionTr": "Webb hangi bölgeyi gözlemledi?",
           "options": [
             "Sahra Çölü'nü",
-            "NGC 7129'u",
-            "Atlantik Okyanusu'nu"
+            "Atlantik Okyanusu'nu",
+            "NGC 7129'u"
           ],
-          "correctIndex": 1,
+          "correctIndex": 2,
           "explanationTr": "Metin “إِنْ جِي سِي ٧١٢٩” bölgesini anlatır."
         },
         {
           "questionTr": "Bu bölge Dünya'dan yaklaşık ne kadar uzak?",
           "options": [
-            "3.300 ışık yılı",
             "330 kilometre",
+            "3.300 ışık yılı",
             "30 metre"
           ],
-          "correctIndex": 0,
+          "correctIndex": 1,
           "explanationTr": "“ثَلَاثَةِ آلَافٍ وَثَلَاثِمِئَةِ سَنَةٍ ضَوْئِيَّةٍ” 3.300 ışık yılıdır."
         },
         {
           "questionTr": "Webb neden tozun ardını görebiliyor?",
           "options": [
-            "Havayı temizlediği için",
             "Tozu kaldırdığı için",
-            "Kızılötesi ışık kullandığı için"
+            "Kızılötesi ışık kullandığı için",
+            "Havayı temizlediği için"
           ],
-          "correctIndex": 2,
+          "correctIndex": 1,
           "explanationTr": "“الْأَشِعَّةِ تَحْتَ الْحَمْرَاءِ” kızılötesi ışığı anlatır."
         }
       ]
@@ -1164,21 +1164,21 @@
         {
           "questionTr": "Girişimin bütçesi ne kadardır?",
           "options": [
-            "78 milyon dolar",
             "7,8 milyar dolar",
+            "78 milyon dolar",
             "780 bin dolar"
           ],
-          "correctIndex": 0,
+          "correctIndex": 1,
           "explanationTr": "İlk cümlede 78 milyon dolar belirtilir."
         },
         {
           "questionTr": "Kaç ülkede uygulanması amaçlanıyor?",
           "options": [
             "Üç ülkede",
-            "Dokuz ülkede",
-            "Yirmi ülkede"
+            "Yirmi ülkede",
+            "Dokuz ülkede"
           ],
-          "correctIndex": 1,
+          "correctIndex": 2,
           "explanationTr": "“تِسْعِ دُوَلٍ” dokuz ülke demektir."
         },
         {
@@ -1247,28 +1247,28 @@
         {
           "questionTr": "Hedefli mali destek kime yöneliktir?",
           "options": [
+            "Yalnızca turistlere",
             "Bütün şirketlere",
-            "En çok ihtiyacı olan ailelere",
-            "Yalnızca turistlere"
+            "En çok ihtiyacı olan ailelere"
           ],
-          "correctIndex": 1,
+          "correctIndex": 2,
           "explanationTr": "“الْأُسَرِ الْأَكْثَرِ حَاجَةً” ifadesi en çok ihtiyacı olan aileleri anlatır."
         },
         {
           "questionTr": "Metinde hayat pahalılığının nedenlerinden biri hangisidir?",
           "options": [
-            "Gıda ve enerji fiyatlarının artması",
             "Yağışın artması",
-            "Üniversite sayısının artması"
+            "Üniversite sayısının artması",
+            "Gıda ve enerji fiyatlarının artması"
           ],
-          "correctIndex": 0,
+          "correctIndex": 2,
           "explanationTr": "Gıda ve enerji fiyatlarındaki artış açıkça belirtilmektedir."
         },
         {
           "questionTr": "Politikanın diğer amacı nedir?",
           "options": [
-            "Bütün vergileri kaldırmak",
             "Bütün fiyatları sabitlemek",
+            "Bütün vergileri kaldırmak",
             "Kamu maliyesini korumak"
           ],
           "correctIndex": 2,
@@ -1332,21 +1332,21 @@
         {
           "questionTr": "2030 yılına kadar kaç ek öğretmene ihtiyaç var?",
           "options": [
-            "5 milyon",
             "50 milyon",
+            "5 milyon",
             "150 milyon"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "explanationTr": "Metinde “خَمْسِينَ مِلْيُونَ” yani 50 milyon deniyor."
         },
         {
           "questionTr": "Yeni öğretmenlerin önemli bir bölümü ne yapacak?",
           "options": [
             "Sadece okul inşa edecek",
-            "Sadece yazılım geliştirecek",
-            "Mesleği bırakanların yerini alacak"
+            "Mesleği bırakanların yerini alacak",
+            "Sadece yazılım geliştirecek"
           ],
-          "correctIndex": 2,
+          "correctIndex": 1,
           "explanationTr": "“مَحَلَّ مُعَلِّمِينَ يَتْرُكُونَ الْمِهْنَةَ” ifadesi bunu açıklar."
         },
         {
@@ -1418,28 +1418,28 @@
           "questionTr": "Hangi vergi türü inceleniyor?",
           "options": [
             "Gelir vergisi dışındaki tüm vergiler",
-            "Yalnızca gümrük vergisi",
-            "Kurumlar vergisi"
+            "Kurumlar vergisi",
+            "Yalnızca gümrük vergisi"
           ],
-          "correctIndex": 2,
+          "correctIndex": 1,
           "explanationTr": "“ضَرَائِبِ أَرْبَاحِ الشَّرِكَاتِ” şirket kârları üzerinden alınan vergileri ifade eder."
         },
         {
           "questionTr": "Vergi değişiklikleri sadece tek ülkede mi etkili olur?",
           "options": [
-            "Hayır, diğer ülkeleri de etkileyebilir",
             "Evet, kesinlikle",
+            "Hayır, diğer ülkeleri de etkileyebilir",
             "Sadece denizlerde etkili olur"
           ],
-          "correctIndex": 0,
+          "correctIndex": 1,
           "explanationTr": "İkinci cümlede etkilerin sınırları aşabileceği anlatılır."
         },
         {
           "questionTr": "Uzun vadede hangi olumlu etki ortaya çıkabilir?",
           "options": [
-            "Faaliyetlerin tamamen durması",
+            "Bütün vergilerin ortadan kalkması",
             "Bilgi ve deneyimin ülkeler arasında yayılması",
-            "Bütün vergilerin ortadan kalkması"
+            "Faaliyetlerin tamamen durması"
           ],
           "correctIndex": 1,
           "explanationTr": "“تَنْتَقِلُ الْمَعْرِفَةُ وَالْخِبْرَاتُ” bilgi ve deneyim aktarımını belirtir."
@@ -1501,19 +1501,19 @@
         {
           "questionTr": "2025'te kaç mülteci çocuk okula gidemedi?",
           "options": [
-            "580 bin",
             "5,8 milyon",
+            "580 bin",
             "58 milyon"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "explanationTr": "“خَمْسَةِ مَلَايِينَ وَثَمَانِمِئَةِ أَلْفِ” 5,8 milyon demektir."
         },
         {
           "questionTr": "Bu sayı mülteci çocukların yaklaşık yüzde kaçıdır?",
           "options": [
             "%44",
-            "%14",
-            "%74"
+            "%74",
+            "%14"
           ],
           "correctIndex": 0,
           "explanationTr": "Metinde “أَرْبَعَةٍ وَأَرْبَعِينَ فِي الْمِئَةِ” denir."
@@ -1521,11 +1521,11 @@
         {
           "questionTr": "UNHCR hangi sorunun eğitimi tehdit ettiğini belirtiyor?",
           "options": [
+            "Finansman eksikliği",
             "Kitapların çok uzun olması",
-            "Sınavların çok kolay olması",
-            "Finansman eksikliği"
+            "Sınavların çok kolay olması"
           ],
-          "correctIndex": 2,
+          "correctIndex": 0,
           "explanationTr": "“نَقْصَ التَّمْوِيلِ” finansman eksikliği demektir."
         }
       ]
@@ -1586,11 +1586,11 @@
         {
           "questionTr": "Haber hangi ülkenin öğretmenlerinden söz ediyor?",
           "options": [
-            "Türkiye",
+            "Kenya",
             "Mısır",
-            "Kenya"
+            "Türkiye"
           ],
-          "correctIndex": 2,
+          "correctIndex": 0,
           "explanationTr": "“فِي كِينْيَا” Kenya anlamındadır."
         },
         {
@@ -1606,11 +1606,11 @@
         {
           "questionTr": "Öğretmenlere göre teknoloji neyin yerini tutamaz?",
           "options": [
-            "Tahtanın",
             "İnsan ilişkilerinin",
-            "İnternet kablolarının"
+            "İnternet kablolarının",
+            "Tahtanın"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "explanationTr": "“الْعَلَاقَةِ الْإِنْسَانِيَّةِ” öğretmen ve öğrenci arasındaki insani ilişkiyi ifade eder."
         }
       ]
@@ -1670,11 +1670,11 @@
         {
           "questionTr": "Bilim insanları hangi yapıları inceliyor?",
           "options": [
-            "Genç yıldızların çevresindeki toz disklerini",
+            "Ormanlardaki ağaçları",
             "Deniz tabanındaki kumları",
-            "Ormanlardaki ağaçları"
+            "Genç yıldızların çevresindeki toz disklerini"
           ],
-          "correctIndex": 0,
+          "correctIndex": 2,
           "explanationTr": "İlk cümle yıldızların çevresindeki toz disklerinden söz eder."
         },
         {
@@ -1691,10 +1691,10 @@
           "questionTr": "Metin bu senaryonun niteliğini nasıl açıklıyor?",
           "options": [
             "Kesin olarak gözlenmiş",
-            "Efsane olarak",
-            "Kanıtlarla incelenen varsayım olarak"
+            "Kanıtlarla incelenen varsayım olarak",
+            "Efsane olarak"
           ],
-          "correctIndex": 2,
+          "correctIndex": 1,
           "explanationTr": "Son cümle olayın doğrudan gözlenmediğini belirtir."
         }
       ]
@@ -1704,7 +1704,7 @@
       "titleAr": "مَرْصَدٌ إِقْلِيمِيٌّ لِلذَّكَاءِ الِاصْطِنَاعِيِّ فِي التَّعْلِيمِ",
       "titleTr": "UNESCO'nun Eğitimde Yapay Zekâ Gözlemevi İlk Toplantısını Yaptı",
       "summaryTr": "UNESCO'nun Eğitimde Yapay Zekâ Gözlemevi İlk Toplantısını Yaptı. Kaynaktan uyarlanmış Arapça okuma ve Türkçe açıklama.",
-      "category": "Eğitim",
+      "category": "Teknoloji",
       "level": "B2",
       "publishedAt": "2026-09-28",
       "textAr": "عَقَدَ مَرْصَدُ الذَّكَاءِ الِاصْطِنَاعِيِّ فِي التَّعْلِيمِ لِأَمْرِيكَا اللَّاتِينِيَّةِ وَالْكَرِيبِيِّ أَوَّلَ اجْتِمَاعٍ لِمُؤَسَّسَاتِهِ الْمُشَارِكَةِ. وَنَاقَشَ الْمُشَارِكُونَ سِيَاسَاتِ الذَّكَاءِ الِاصْطِنَاعِيِّ وَتَدْرِيبَ الْمُعَلِّمِينَ وَخُطَطَ عَمَلِ عَامِ ٢٠٢٧. وَيَضُمُّ الْمَرْصَدُ جَامِعَاتٍ وَمَرَاكِزَ أَبْحَاثٍ وَمُنَظَّمَاتٍ دَوْلِيَّةً. وَيَهْدِفُ إِلَى تَوْفِيرِ مَعْلُومَاتٍ مُفِيدَةٍ لِصَانِعِي الْقَرَارِ وَتَشْجِيعِ الِاسْتِخْدَامِ الْمَسْؤُولِ لِلتِّقْنِيَةِ.",
@@ -1759,9 +1759,9 @@
         {
           "questionTr": "Katılımcılar hangi yılın çalışma planlarını görüştü?",
           "options": [
-            "2025",
+            "2035",
             "2027",
-            "2035"
+            "2025"
           ],
           "correctIndex": 1,
           "explanationTr": "Metinde “خُطَطَ عَمَلِ عَامِ ٢٠٢٧” ifadesi bulunur."
@@ -1769,8 +1769,8 @@
         {
           "questionTr": "Gözlemevinin amaçlarından biri nedir?",
           "options": [
-            "Okulları kapatmak",
             "Eğitimi yasaklamak",
+            "Okulları kapatmak",
             "Yapay zekâyı sorumlu biçimde kullanmayı desteklemek"
           ],
           "correctIndex": 2,
