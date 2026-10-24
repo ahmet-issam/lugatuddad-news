@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T07:53:41.193Z",
+  "updatedAt": "2026-10-24T07:57:47.492Z",
   "news": [
     {
       "id": "who_blood_donation_20261023",
@@ -432,6 +432,259 @@
           ],
           "correctIndex": 2,
           "explanationTr": "Metin pahalı hizmet ve dijital beceri eksikliğine değinir."
+        }
+      ]
+    },
+    {
+      "id": "imf_global_growth_20261013",
+      "titleAr": "صُنْدُوقُ النَّقْدِ يَنْشُرُ تَوَقُّعَاتِ النُّمُوِّ الْعَالَمِيِّ",
+      "titleTr": "IMF 2026 Küresel Büyüme Tahminini Açıkladı",
+      "summaryTr": "Uluslararası Para Fonu yeni küresel ekonomi raporunu yayımladı.",
+      "category": "Ekonomi",
+      "level": "B1",
+      "publishedAt": "2026-10-13",
+      "textAr": "نَشَرَ صُنْدُوقُ النَّقْدِ الدَّوْلِيُّ تَقْرِيرًا جَدِيدًا عَنْ مُسْتَقْبَلِ الِاقْتِصَادِ الْعَالَمِيِّ. وَيَتَوَقَّعُ أَنْ يَبْلُغَ النُّمُوُّ ثَلَاثَةً فَاصِلَةً وَاحِدًا فِي الْمِئَةِ فِي عَامِ ٢٠٢٦، ثُمَّ يَصِلَ إِلَى ثَلَاثَةٍ فَاصِلَةٍ وَأَرْبَعَةٍ فِي الْمِئَةِ فِي ٢٠٢٧. وَتَخْتَلِفُ الْأَوْضَاعُ مِنْ دَوْلَةٍ إِلَى أُخْرَى؛ فَبَعْضُ الِاقْتِصَادَاتِ يَسْتَفِيدُ مِنِ اسْتِثْمَارَاتِ الذَّكَاءِ الِاصْطِنَاعِيِّ، بَيْنَمَا تَتَضَرَّرُ دُوَلٌ أُخْرَى مِنِ ارْتِفَاعِ أَسْعَارِ الطَّاقَةِ. وَيُحَذِّرُ التَّقْرِيرُ مِنْ أَنَّ التَّوَتُّرَاتِ التِّجَارِيَّةَ وَالنِّزَاعَاتِ قَدْ تُضْعِفُ النُّمُوَّ.",
+      "translationTr": "Uluslararası Para Fonu yeni küresel ekonomi raporunu yayımladı. IMF, küresel büyümenin 2026'da yüzde 3,1 ve 2027'de yüzde 3,4 olacağını öngörüyor. Ülkelerin koşulları aynı değil. Bazı ekonomiler yapay zekâ yatırımlarından yararlanırken diğerleri yüksek enerji fiyatlarından etkileniyor. Rapora göre ticaret gerilimleri ve çatışmalar büyümeyi zayıflatabilir.",
+      "sourceName": "IMF – eğitim için yeniden yazıldı",
+      "sourceUrl": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "النُّمُوّ",
+          "turkish": "Büyüme",
+          "root": "ن م و",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الِاقْتِصَاد",
+          "turkish": "Ekonomi",
+          "root": "ق ص د",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "التَّوَقُّعَات",
+          "turkish": "Tahminler",
+          "root": "و ق ع",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "اسْتِثْمَارَات",
+          "turkish": "Yatırımlar",
+          "root": "ث م ر",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الطَّاقَة",
+          "turkish": "Enerji",
+          "root": "ط و ق",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "النِّزَاعَات",
+          "turkish": "Çatışmalar",
+          "root": "ن ز ع",
+          "wordType": "Çoğul"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "IMF'nin 2026 küresel büyüme tahmini kaçtır?",
+          "options": [
+            "%3,1",
+            "%4,7",
+            "%5,0"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metinde 2026 yılı için %3,1 denmektedir."
+        },
+        {
+          "questionTr": "2027 tahmini kaçtır?",
+          "options": [
+            "%2,0",
+            "%3,4",
+            "%6,2"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "2027 yılı için %3,4 belirtilir."
+        },
+        {
+          "questionTr": "Büyümeyi olumsuz etkileyebilecek etken nedir?",
+          "options": [
+            "Üniversite tatilleri",
+            "Kitap fuarları",
+            "Ticaret gerilimleri"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“التَّوَتُّرَاتِ التِّجَارِيَّةَ” ticaret gerilimleridir."
+        }
+      ]
+    },
+    {
+      "id": "imf_cost_living_20261005",
+      "titleAr": "دِرَاسَةٌ تَدْعُو إِلَى دَعْمٍ مُؤَقَّتٍ لِلْأُسَرِ الْمُتَضَرِّرَةِ",
+      "titleTr": "IMF: Hayat Pahalılığına Karşı Hedefli Destek Daha Etkili",
+      "summaryTr": "IMF, hayat pahalılığı krizlerinde hükümetlerin izlediği politikaları inceledi.",
+      "category": "Ekonomi",
+      "level": "B2",
+      "publishedAt": "2026-10-05",
+      "textAr": "دَرَسَ صُنْدُوقُ النَّقْدِ الدَّوْلِيُّ سِيَاسَاتِ الْحُكُومَاتِ فِي أَزَمَاتِ غَلَاءِ الْمَعِيشَةِ. وَتَحْدُثُ هَذِهِ الْأَزَمَاتُ عِنْدَمَا تَرْتَفِعُ أَسْعَارُ الْغِذَاءِ وَالطَّاقَةِ وَتَنْخَفِضُ الْقُدْرَةُ الشِّرَائِيَّةُ لِلْأُسَرِ. وَوَفْقًا لِلدِّرَاسَةِ، يُمْكِنُ أَنْ يَكُونَ الدَّعْمُ الْمَالِيُّ الْمُؤَقَّتُ وَالْمُوَجَّهُ لِلْأُسَرِ الْأَكْثَرِ حَاجَةً أَقَلَّ تَكْلِفَةً مِنْ إِجْرَاءَاتٍ عَامَّةٍ تُخَفِّضُ الْأَسْعَارَ لِلْجَمِيعِ. وَتُوَضِّحُ الدِّرَاسَةُ أَنَّ خَفْضَ الْأَسْعَارِ عَبْرَ تَدَابِيرَ وَاسِعَةٍ قَدْ يَتَطَلَّبُ مَوَارِدَ حُكُومِيَّةً أَكْبَرَ بِكَثِيرٍ. وَالْهَدَفُ هُوَ حِمَايَةُ الْفِئَاتِ الْهَشَّةِ مَعَ الْحِفَاظِ عَلَى الْمَالِيَّةِ الْعَامَّةِ.",
+      "translationTr": "IMF, hayat pahalılığı krizlerinde hükümetlerin izlediği politikaları inceledi. Bu krizler, gıda ve enerji fiyatlarının yükselmesiyle ailelerin satın alma gücünün azalmasına yol açar. Çalışmaya göre en çok ihtiyacı olan ailelere geçici ve hedefli mali destek sağlamak, bütün fiyatları herkese yönelik baskılayan politikalardan daha az maliyetli olabilir. Genel fiyat baskılama tedbirleri çok daha fazla kamu kaynağı gerektirebilir. Amaç, kırılgan grupları korurken kamu maliyesini sürdürülebilir tutmaktır.",
+      "sourceName": "IMF World Economic Outlook Chapter 2 – eğitim için yeniden yazıldı",
+      "sourceUrl": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "غَلَاءُ الْمَعِيشَة",
+          "turkish": "Hayat pahalılığı",
+          "wordType": "İsim tamlaması"
+        },
+        {
+          "arabic": "الْقُدْرَةُ الشِّرَائِيَّة",
+          "turkish": "Satın alma gücü",
+          "wordType": "İsim tamlaması"
+        },
+        {
+          "arabic": "الدَّعْم",
+          "turkish": "Destek",
+          "root": "د ع م",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "مُؤَقَّت",
+          "turkish": "Geçici",
+          "root": "و ق ت",
+          "wordType": "Sıfat"
+        },
+        {
+          "arabic": "الْمَوَارِد",
+          "turkish": "Kaynaklar",
+          "root": "و ر د",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْفِئَات",
+          "turkish": "Gruplar",
+          "root": "ف أ ة",
+          "wordType": "Çoğul"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Hedefli mali destek kime yöneliktir?",
+          "options": [
+            "Bütün şirketlere",
+            "En çok ihtiyacı olan ailelere",
+            "Yalnızca turistlere"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“الْأُسَرِ الْأَكْثَرِ حَاجَةً” ifadesi en çok ihtiyacı olan aileleri anlatır."
+        },
+        {
+          "questionTr": "Metinde hayat pahalılığının nedenlerinden biri hangisidir?",
+          "options": [
+            "Gıda ve enerji fiyatlarının artması",
+            "Yağışın artması",
+            "Üniversite sayısının artması"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Gıda ve enerji fiyatlarındaki artış açıkça belirtilmektedir."
+        },
+        {
+          "questionTr": "Politikanın diğer amacı nedir?",
+          "options": [
+            "Bütün vergileri kaldırmak",
+            "Bütün fiyatları sabitlemek",
+            "Kamu maliyesini korumak"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "Son cümlede “الْمَالِيَّةِ الْعَامَّةِ” ifadesi bulunur."
+        }
+      ]
+    },
+    {
+      "id": "imf_corporate_tax_20261002",
+      "titleAr": "كَيْفَ تُؤَثِّرُ ضَرَائِبُ الشَّرِكَاتِ فِي الِاقْتِصَادِ الْعَالَمِيِّ؟",
+      "titleTr": "IMF Kurumlar Vergisinin Ülkeler Arası Etkilerini İnceledi",
+      "summaryTr": "IMF, kurumlar vergisinin yatırım ve ekonomik faaliyet üzerindeki etkilerini inceledi.",
+      "category": "Ekonomi",
+      "level": "C1",
+      "publishedAt": "2026-10-02",
+      "textAr": "خَصَّصَ صُنْدُوقُ النَّقْدِ الدَّوْلِيِّ فَصْلًا مِنْ تَقْرِيرِهِ لِدِرَاسَةِ تَأْثِيرِ ضَرَائِبِ أَرْبَاحِ الشَّرِكَاتِ عَلَى الِاسْتِثْمَارِ وَالنَّشَاطِ الِاقْتِصَادِيِّ. وَأَشَارَ إِلَى أَنَّ آثَارَ تَغْيِيرِ الضَّرِيبَةِ لَا تَتَوَقَّفُ عِنْدَ حُدُودِ الدَّوْلَةِ. فَتَخْفِيضُ الضَّرَائِبِ الْمُمَوَّلُ بِالِاقْتِرَاضِ قَدْ يَدْعَمُ النَّشَاطَ الْمَحَلِّيَّ قَصِيرَ الْأَجَلِ، وَلَكِنَّهُ قَدْ يُحْدِثُ آثَارًا سَلْبِيَّةً فِي دُوَلٍ أُخْرَى. وَعَلَى الْمَدَى الطَّوِيلِ، قَدْ تَنْتَقِلُ الْمَعْرِفَةُ وَالْخِبْرَاتُ بَيْنَ الْبُلْدَانِ فَتَظْهَرُ فَوَائِدُ جَدِيدَةٌ. وَيَنْصَحُ التَّقْرِيرُ بِمُرَاعَاةِ الْإِيرَادَاتِ الْعَامَّةِ وَالِاسْتِثْمَارِ عِنْدَ تَصْمِيمِ السِّيَاسَاتِ الضَّرِيبِيَّةِ.",
+      "translationTr": "IMF, kurumlar vergisinin yatırım ve ekonomik faaliyet üzerindeki etkilerini inceledi. Vergi değişikliklerinin etkileri ülke sınırlarıyla sınırlı kalmayabilir. Borçlanmayla finanse edilen vergi indirimleri kısa vadede ülke içi faaliyeti desteklerken diğer ekonomilere olumsuz etkiler yayabilir. Uzun vadede ülkeler arası bilgi ve deneyim aktarımı bazı olumlu sonuçlar doğurabilir. Rapor, vergi politikaları hazırlanırken kamu gelirlerinin ve yatırımların dikkate alınmasını öneriyor.",
+      "sourceName": "IMF World Economic Outlook Chapter 3 – eğitim için yeniden yazıldı",
+      "sourceUrl": "https://www.imf.org/en/Publications/WEO/Issues/2026/10/13/world-economic-outlook-october-2026",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "الضَّرَائِب",
+          "turkish": "Vergiler",
+          "root": "ض ر ب",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الِاسْتِثْمَار",
+          "turkish": "Yatırım",
+          "root": "ث م ر",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الِاقْتِرَاض",
+          "turkish": "Borçlanma",
+          "root": "ق ر ض",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الْإِيرَادَات",
+          "turkish": "Gelirler",
+          "root": "و ر د",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الْخِبْرَات",
+          "turkish": "Deneyimler",
+          "root": "خ ب ر",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "السِّيَاسَات",
+          "turkish": "Politikalar",
+          "root": "س و س",
+          "wordType": "Çoğul"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Hangi vergi türü inceleniyor?",
+          "options": [
+            "Gelir vergisi dışındaki tüm vergiler",
+            "Yalnızca gümrük vergisi",
+            "Kurumlar vergisi"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“ضَرَائِبِ أَرْبَاحِ الشَّرِكَاتِ” şirket kârları üzerinden alınan vergileri ifade eder."
+        },
+        {
+          "questionTr": "Vergi değişiklikleri sadece tek ülkede mi etkili olur?",
+          "options": [
+            "Hayır, diğer ülkeleri de etkileyebilir",
+            "Evet, kesinlikle",
+            "Sadece denizlerde etkili olur"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "İkinci cümlede etkilerin sınırları aşabileceği anlatılır."
+        },
+        {
+          "questionTr": "Uzun vadede hangi olumlu etki ortaya çıkabilir?",
+          "options": [
+            "Faaliyetlerin tamamen durması",
+            "Bilgi ve deneyimin ülkeler arasında yayılması",
+            "Bütün vergilerin ortadan kalkması"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“تَنْتَقِلُ الْمَعْرِفَةُ وَالْخِبْرَاتُ” bilgi ve deneyim aktarımını belirtir."
         }
       ]
     },
