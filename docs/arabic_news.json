@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T08:02:21.262Z",
+  "updatedAt": "2026-10-24T08:04:19.319Z",
   "news": [
     {
       "id": "who_blood_donation_20261023",
@@ -268,6 +268,90 @@
           ],
           "correctIndex": 2,
           "explanationTr": "“تَطْوِيرِ الْقُدُرَاتِ الْمَحَلِّيَّةِ” yerel kapasiteyi geliştirmektir."
+        }
+      ]
+    },
+    {
+      "id": "unicef_malaria_vaccine_price_20261022",
+      "titleAr": "اتِّفَاقٌ لِخَفْضِ سِعْرِ لِقَاحِ الْمَلَارِيَا",
+      "titleTr": "UNICEF ve Gavi, Sıtma Aşısının Fiyatını Düşürmek İçin Anlaştı",
+      "summaryTr": "UNICEF ve Gavi, sıtma aşısının fiyatını yaklaşık yüzde 40 düşürmeyi hedefleyen bir anlaşma duyurdu.",
+      "category": "Dünya",
+      "level": "A2",
+      "publishedAt": "2026-10-22",
+      "textAr": "أَعْلَنَتْ مُنَظَّمَةُ الْيُونِيسِفْ وَتَحَالُفُ «غَافِي» عَنْ اتِّفَاقٍ لِخَفْضِ سِعْرِ لِقَاحٍ ضِدَّ الْمَلَارِيَا. وَبِحَسَبِ الْإِعْلَانِ، قَدْ يَنْخَفِضُ سِعْرُ جُرْعَةِ اللِّقَاحِ بِنِسْبَةِ نَحْوِ أَرْبَعِينَ فِي الْمِئَةِ. وَيُتَوَقَّعُ أَنْ يُوَفِّرَ الِاتِّفَاقُ حَوَالَيْ خَمْسِينَ مِلْيُونَ دُولَارٍ بَيْنَ عَامَيْ ٢٠٢٧ وَ٢٠٢٩. وَيُمْكِنُ أَنْ تُسَاعِدَ هَذِهِ الْأَمْوَالُ عَلَى حِمَايَةِ أَطْفَالٍ إِضَافِيِّينَ مِنَ الْمَرَضِ. وَلَكِنَّ تَنْفِيذَ الِاتِّفَاقِ يَعْتَمِدُ عَلَى اسْتِيفَاءِ شُرُوطٍ تَتَعَلَّقُ بِالتَّصْنِيعِ وَالْمُوَافَقَاتِ التَّنْظِيمِيَّةِ.",
+      "translationTr": "UNICEF ve Gavi, sıtma aşısının fiyatını düşürmeye yönelik bir anlaşma duyurdu. Açıklamaya göre bir doz aşının fiyatı yaklaşık yüzde 40 azalabilir. Anlaşmanın 2027–2029 yılları arasında yaklaşık 50 milyon dolar tasarruf sağlaması bekleniyor. Bu kaynaklarla daha fazla çocuğun hastalıktan korunması mümkün olabilir. Ancak anlaşmanın uygulanması, üretim ve düzenleyici onaylarla ilgili bazı koşulların yerine getirilmesine bağlı.",
+      "sourceName": "UNICEF ve Gavi – eğitim uyarlaması",
+      "sourceUrl": "https://www.unicef.org/press-releases/gavi-and-unicef-secure-lower-malaria-vaccine-price-saving-us50-million-childhood",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "لِقَاح",
+          "turkish": "Aşı",
+          "root": "ل ق ح",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "الْمَلَارِيَا",
+          "turkish": "Sıtma",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "جُرْعَة",
+          "turkish": "Doz",
+          "root": "ج ر ع",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "يَنْخَفِض",
+          "turkish": "Azalır",
+          "root": "خ ف ض",
+          "wordType": "Fiil"
+        },
+        {
+          "arabic": "تَصْنِيع",
+          "turkish": "Üretim",
+          "root": "ص ن ع",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "مُوَافَقَات",
+          "turkish": "Onaylar",
+          "root": "و ف ق",
+          "wordType": "Çoğul"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Aşı fiyatında yaklaşık ne kadar azalma öngörülüyor?",
+          "options": [
+            "%4",
+            "%40",
+            "%90"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“أَرْبَعِينَ فِي الْمِئَةِ” %40 anlamına gelir."
+        },
+        {
+          "questionTr": "Tasarrufun hangi dönemde sağlanması bekleniyor?",
+          "options": [
+            "2027–2029",
+            "2010–2012",
+            "2040–2045"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metinde 2027 ile 2029 yılları geçiyor."
+        },
+        {
+          "questionTr": "Anlaşmanın uygulanması neye bağlı?",
+          "options": [
+            "Bütün hastanelerin kapanmasına",
+            "Sadece hava koşullarına",
+            "Üretim ve düzenleyici koşulların yerine getirilmesine"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "Son cümle üretim ve onay koşullarına dikkat çeker."
         }
       ]
     },
@@ -685,6 +769,91 @@
           ],
           "correctIndex": 2,
           "explanationTr": "“التَّوَتُّرَاتِ التِّجَارِيَّةَ” ticaret gerilimleridir."
+        }
+      ]
+    },
+    {
+      "id": "unicef_panama_earthquake_20261013",
+      "titleAr": "أَطْفَالٌ كَثِيرُونَ بِحَاجَةٍ إِلَى مُسَاعَدَةٍ بَعْدَ زِلْزَالِ بَنَمَا",
+      "titleTr": "Panama Depreminin Ardından Binlerce Çocuk Yardıma Muhtaç",
+      "summaryTr": "UNICEF, 9 Ekim'deki Panama depreminden sonra 8.300 çocuğun yardıma ihtiyaç duyduğunu tahmin ediyor.",
+      "category": "Dünya",
+      "level": "B1",
+      "publishedAt": "2026-10-13",
+      "textAr": "أَعْلَنَتِ الْيُونِيسِفْ أَنَّ زِلْزَالًا قَوِيًّا ضَرَبَ بَنَمَا فِي التَّاسِعِ مِنْ أُكْتُوبَرَ ٢٠٢٦. وَبَلَغَتْ قُوَّةُ الزِّلْزَالِ سَبْعًا فَاصِلَةً خَمْسًا دَرَجَاتٍ، وَتَسَبَّبَ فِي أَضْرَارٍ بِمَنَازِلَ وَمَدَارِسَ وَمَرَافِقَ صِحِّيَّةٍ. وَتُقَدِّرُ الْمُنَظَّمَةُ أَنَّ ثَمَانِيَةَ آلَافٍ وَثَلَاثَمِئَةِ طِفْلٍ مِنْ بَيْنِ ثَمَانِيَةٍ وَثَلَاثِينَ أَلْفَ شَخْصٍ يَحْتَاجُونَ إِلَى مُسَاعَدَةٍ إِنْسَانِيَّةٍ. وَتَعْمَلُ السُّلُطَاتُ مَعَ الشُّرَكَاءِ عَلَى فَحْصِ الْمَبَانِي وَتَوْفِيرِ الْمِيَاهِ الْآمِنَةِ وَمُسْتَلْزَمَاتِ الطِّبَابَةِ. وَمَا زَالَ تَقْيِيمُ الْأَضْرَارِ جَارِيًا، لِذَلِكَ قَدْ تَتَغَيَّرُ التَّقْدِيرَاتُ.",
+      "translationTr": "UNICEF, 9 Ekim 2026'da Panama'da güçlü bir deprem meydana geldiğini bildirdi. 7,5 büyüklüğündeki deprem evlere, okullara ve sağlık tesislerine zarar verdi. Kuruma göre yardıma ihtiyaç duyan yaklaşık 38 bin kişinin 8.300'ü çocuk. Yetkililer, ortaklarıyla birlikte binaları incelemeye, güvenli su ve sağlık malzemeleri sağlamaya çalışıyor. Hasar tespit çalışmaları sürdüğü için tahminler değişebilir.",
+      "sourceName": "UNICEF – eğitim uyarlaması",
+      "sourceUrl": "https://www.unicef.org/press-releases/over-8000-children-need-humanitarian-assistance-following-panama-earthquake",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "زِلْزَال",
+          "turkish": "Deprem",
+          "root": "ز ل ز ل",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "أَضْرَار",
+          "turkish": "Hasarlar",
+          "root": "ض ر ر",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "مَرَافِق",
+          "turkish": "Tesisler",
+          "root": "ر ف ق",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "إِنْسَانِيَّة",
+          "turkish": "İnsani",
+          "root": "أ ن س",
+          "wordType": "Sıfat"
+        },
+        {
+          "arabic": "السُّلُطَات",
+          "turkish": "Yetkililer",
+          "root": "س ل ط",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "التَّقْدِيرَات",
+          "turkish": "Tahminler",
+          "root": "ق د ر",
+          "wordType": "Çoğul"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Deprem hangi ülkede meydana geldi?",
+          "options": [
+            "Panama",
+            "Peru",
+            "Kenya"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "“ضَرَبَ بَنَمَا” ifadesi depremin Panama'da olduğunu belirtir."
+        },
+        {
+          "questionTr": "UNICEF'e göre yardıma ihtiyaç duyan yaklaşık kaç çocuk var?",
+          "options": [
+            "830",
+            "8.300",
+            "83.000"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“ثَمَانِيَةَ آلَافٍ وَثَلَاثَمِئَةِ طِفْلٍ” 8.300 çocuktur."
+        },
+        {
+          "questionTr": "Hasar değerlendirmeleriyle ilgili hangi bilgi doğru?",
+          "options": [
+            "Tamamen sona erdi",
+            "Hiç başlamadı",
+            "Hâlâ devam ediyor"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“تَقْيِيمُ الْأَضْرَارِ جَارِيًا” değerlendirmelerin sürdüğünü gösterir."
         }
       ]
     },
@@ -1274,6 +1443,90 @@
           ],
           "correctIndex": 1,
           "explanationTr": "“تَنْتَقِلُ الْمَعْرِفَةُ وَالْخِبْرَاتُ” bilgi ve deneyim aktarımını belirtir."
+        }
+      ]
+    },
+    {
+      "id": "unhcr_refugee_education_20261002",
+      "titleAr": "مَلَايِينُ الْأَطْفَالِ اللَّاجِئِينَ لَا يَذْهَبُونَ إِلَى الْمَدْرَسَةِ",
+      "titleTr": "UNHCR: 5,8 Milyon Mülteci Çocuk Okula Gidemiyor",
+      "summaryTr": "UNHCR, 2025'te dünya genelinde 5,8 milyon mülteci çocuğun eğitim dışında kaldığını bildirdi.",
+      "category": "Dünya",
+      "level": "C1",
+      "publishedAt": "2026-10-02",
+      "textAr": "أَظْهَرَ تَقْرِيرٌ جَدِيدٌ لِلْمُفَوَّضِيَّةِ السَّامِيَةِ لِلْأُمَمِ الْمُتَّحِدَةِ لِشُؤُونِ اللَّاجِئِينَ أَنَّ نَحْوَ خَمْسَةِ مَلَايِينَ وَثَمَانِمِئَةِ أَلْفِ طِفْلٍ لَاجِئٍ لَمْ يَلْتَحِقُوا بِالْمَدَارِسِ فِي عَامِ ٢٠٢٥. وَيُمَثِّلُ هَذَا الْعَدَدُ نَحْوَ أَرْبَعَةٍ وَأَرْبَعِينَ فِي الْمِئَةِ مِنَ الْأَطْفَالِ اللَّاجِئِينَ فِي سِنِّ الدِّرَاسَةِ. وَتُعَدُّ الْمَرْحَلَةُ الثَّانَوِيَّةُ مِنْ أَكْبَرِ التَّحَدِّيَاتِ، إِذْ تَقِلُّ نِسْبَةُ الِالْتِحَاقِ بِهَا مُقَارَنَةً بِالْمَرْحَلَةِ الِابْتِدَائِيَّةِ. وَتُحَذِّرُ الْمُفَوَّضِيَّةُ مِنْ أَنَّ نَقْصَ التَّمْوِيلِ قَدْ يَحْرِمُ الْمَزِيدَ مِنَ الْأَطْفَالِ مِنْ فُرَصِ التَّعَلُّمِ. وَيُؤَكِّدُ التَّقْرِيرُ أَنَّ التَّعْلِيمَ يُسَاعِدُ عَلَى الْحِمَايَةِ وَبِنَاءِ الْمُسْتَقْبَلِ.",
+      "translationTr": "Birleşmiş Milletler Mülteciler Yüksek Komiserliğinin yeni raporuna göre 2025 yılında yaklaşık 5,8 milyon mülteci çocuk okula gidemedi. Bu sayı, okul çağındaki mülteci çocukların yaklaşık yüzde 44'üne karşılık geliyor. Ortaöğretime geçiş en büyük güçlüklerden biri; bu düzeyde okullaşma oranı ilköğretimdekinden daha düşük. Kurum, finansman eksikliğinin daha fazla çocuğu eğitimden uzaklaştırabileceği uyarısında bulunuyor. Rapora göre eğitim, korunmaya ve daha iyi bir gelecek kurmaya katkı sağlıyor.",
+      "sourceName": "UNHCR – eğitim uyarlaması",
+      "sourceUrl": "https://www.unhcr.org/news/press-releases/unhcr-5-8-million-refugee-children-still-out-school-funding-cuts-threaten-hard",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "اللَّاجِئُون",
+          "turkish": "Mülteciler",
+          "root": "ل ج أ",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "الِالْتِحَاق",
+          "turkish": "Kayıt olma / katılma",
+          "root": "ل ح ق",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الْمَرْحَلَة الثَّانَوِيَّة",
+          "turkish": "Ortaöğretim",
+          "wordType": "İsim tamlaması"
+        },
+        {
+          "arabic": "التَّحَدِّيَات",
+          "turkish": "Zorluklar",
+          "root": "ح د ي",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "التَّمْوِيل",
+          "turkish": "Finansman",
+          "root": "م و ل",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الْحِمَايَة",
+          "turkish": "Koruma",
+          "root": "ح م ي",
+          "wordType": "Mastar"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "2025'te kaç mülteci çocuk okula gidemedi?",
+          "options": [
+            "580 bin",
+            "5,8 milyon",
+            "58 milyon"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "“خَمْسَةِ مَلَايِينَ وَثَمَانِمِئَةِ أَلْفِ” 5,8 milyon demektir."
+        },
+        {
+          "questionTr": "Bu sayı mülteci çocukların yaklaşık yüzde kaçıdır?",
+          "options": [
+            "%44",
+            "%14",
+            "%74"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metinde “أَرْبَعَةٍ وَأَرْبَعِينَ فِي الْمِئَةِ” denir."
+        },
+        {
+          "questionTr": "UNHCR hangi sorunun eğitimi tehdit ettiğini belirtiyor?",
+          "options": [
+            "Kitapların çok uzun olması",
+            "Sınavların çok kolay olması",
+            "Finansman eksikliği"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“نَقْصَ التَّمْوِيلِ” finansman eksikliği demektir."
         }
       ]
     },
