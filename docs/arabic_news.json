@@ -1,7 +1,112 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T12:00:00Z",
+  "updatedAt": "2026-10-24T07:00:00Z",
   "news": [
+    {
+      "id": "nasa_space_symposium_20261022",
+      "titleAr": "نَاسَا تَعْلِنُ عَنْ مُلْتَقًى لِاسْتِكْشَافِ الْفَضَاءِ",
+      "titleTr": "NASA, Uzay Araştırmaları Sempozyumunu Duyurdu",
+      "summaryTr": "NASA, 26–28 Ekim 2026 tarihlerinde Alabama'da yapılacak uzay araştırmaları sempozyumunun konularını açıkladı.",
+      "category": "Bilim",
+      "level": "B1",
+      "publishedAt": "2026-10-22",
+      "textAr": "أَعْلَنَتْ وَكَالَةُ نَاسَا عَنْ مُلْتَقًى عِلْمِيٍّ لِاسْتِكْشَافِ الْفَضَاءِ. وَبِحَسَبِ الْإِعْلَانِ الَّذِي نُشِرَ فِي ٢٢ أُكْتُوبَرَ ٢٠٢٦، سَيُعْقَدُ الْمُلْتَقَى مِنْ ٢٦ إِلَى ٢٨ أُكْتُوبَرَ فِي جَامِعَةِ أَلَابَامَا بِمَدِينَةِ هَانْتْسْفِيلَ الْأَمْرِيكِيَّةِ. وَسَيُنَاقِشُ الْمُشَارِكُونَ الْعَوْدَةَ إِلَى الْقَمَرِ، وَبِنَاءَ بِنْيَةٍ تَحْتِيَّةٍ مُسْتَدَامَةٍ عَلَى سَطْحِهِ. وَمِنَ الْمَوْضُوعَاتِ أَيْضًا تَقْنِيَّاتُ الدَّفْعِ الْفَضَائِيِّ، وَمُسْتَقْبَلُ الْعَمَلِ فِي قِطَاعِ الْفَضَاءِ. وَيَجْمَعُ هَذَا اللِّقَاءُ مُمَثِّلِينَ عَنِ الْحُكُومَاتِ وَالشَّرِكَاتِ وَالْجَامِعَاتِ لِمُنَاقَشَةِ مُسْتَقْبَلِ اسْتِكْشَافِ الْفَضَاءِ.",
+      "translationTr": "NASA, uzay araştırmalarına ilişkin bilimsel bir sempozyum duyurdu. 22 Ekim 2026'da yayımlanan açıklamaya göre sempozyum, 26–28 Ekim tarihlerinde ABD'nin Huntsville kentindeki Alabama Üniversitesinde düzenlenecek. Katılımcılar Ay'a dönüşü ve Ay yüzeyinde sürdürülebilir altyapı kurulmasını ele alacak. Uzayda itki teknolojileri ve uzay sektöründeki çalışma hayatının geleceği de konular arasında yer alıyor. Etkinlik, uzay araştırmalarının geleceğini görüşmek üzere kamu, şirket ve üniversite temsilcilerini bir araya getiriyor.",
+      "sourceName": "NASA – özgün duyuru temel alınarak hazırlanmış eğitim metni",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+      "imageUrl": null,
+      "isSample": false,
+      "vocabulary": [
+        {
+          "arabic": "مُلْتَقًى",
+          "turkish": "Sempozyum / buluşma",
+          "root": "ل ق ي",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "اسْتِكْشَاف",
+          "turkish": "Keşfetme / araştırma",
+          "root": "ك ش ف",
+          "wordType": "Mastar"
+        },
+        {
+          "arabic": "الْقَمَر",
+          "turkish": "Ay",
+          "root": "ق م ر",
+          "wordType": "İsim"
+        },
+        {
+          "arabic": "بِنْيَة تَحْتِيَّة",
+          "turkish": "Altyapı",
+          "wordType": "İsim tamlaması"
+        },
+        {
+          "arabic": "مُسْتَدَامَة",
+          "turkish": "Sürdürülebilir",
+          "root": "د و م",
+          "wordType": "Sıfat"
+        },
+        {
+          "arabic": "الدَّفْع الْفَضَائِيّ",
+          "turkish": "Uzay itkisi",
+          "wordType": "İsim tamlaması"
+        },
+        {
+          "arabic": "الْمُشَارِكُون",
+          "turkish": "Katılımcılar",
+          "root": "ش ر ك",
+          "wordType": "Çoğul"
+        },
+        {
+          "arabic": "مُسْتَقْبَل",
+          "turkish": "Gelecek",
+          "root": "ق ب ل",
+          "wordType": "İsim"
+        }
+      ],
+      "questions": [
+        {
+          "questionTr": "Sempozyum hangi tarihler arasında düzenlenecek?",
+          "options": [
+            "22–24 Ekim 2026",
+            "26–28 Ekim 2026",
+            "1–3 Kasım 2026"
+          ],
+          "correctIndex": 1,
+          "explanationTr": "Metindeki “مِنْ ٢٦ إِلَى ٢٨ أُكْتُوبَرَ” ifadesi tarihin 26–28 Ekim olduğunu gösterir."
+        },
+        {
+          "questionTr": "Sempozyumun konularından biri hangisidir?",
+          "options": [
+            "Ay'da sürdürülebilir altyapı",
+            "Okyanus balıkçılığı",
+            "Karayolu taşımacılığı"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "“بِنْيَةٍ تَحْتِيَّةٍ مُسْتَدَامَةٍ عَلَى سَطْحِهِ” Ay yüzeyindeki sürdürülebilir altyapıyı anlatır."
+        },
+        {
+          "questionTr": "Metinde “الْمُشَارِكُونَ” kelimesinin anlamı nedir?",
+          "options": [
+            "Yolcular",
+            "Ziyaretçiler",
+            "Katılımcılar"
+          ],
+          "correctIndex": 2,
+          "explanationTr": "“الْمُشَارِكُونَ” Türkçede “katılımcılar” demektir."
+        },
+        {
+          "questionTr": "Toplantı hangi şehirde yapılacaktır?",
+          "options": [
+            "Huntsville",
+            "New York",
+            "Houston"
+          ],
+          "correctIndex": 0,
+          "explanationTr": "Metinde yer “بِمَدِينَةِ هَانْتْسْفِيلَ” şeklinde belirtilmiştir."
+        }
+      ]
+    },
     {
       "id": "demo_education_001",
       "titleAr": "يَوْمٌ لِلْقِرَاءَةِ فِي الْجَامِعَةِ",
